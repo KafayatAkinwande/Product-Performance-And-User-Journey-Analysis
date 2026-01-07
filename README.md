@@ -42,5 +42,10 @@ The analysis uses a consolidated event-level table combining all five months of 
 
 <div align="center">  <img width="500" height="500" alt="ChatGPT Image Jan 2, 2026, 04_22_09 PM" src="https://github.com/user-attachments/assets/6a6c2dcc-52f0-4fc3-a0a4-d18d1d221fb3" /> </div>
 
+## 3. Executive Summary
+
+### Key Findings
+#### Conversion & Funnel Performance
+
 
 
