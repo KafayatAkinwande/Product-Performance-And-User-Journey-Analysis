@@ -13,8 +13,8 @@ The goal is to understand user behavior patterns across the full purchase journe
 and uncover opportunities to drive sustainable growth. Translating **20 million user events** into actionable insights that inform product development, growth strategy, and monetization decisions. 
 
 ### North Star Metric
-#### Revenue from repeat customers per month
-Captures the core value delivered to customers while driving growth for the business, emphasizing customer retention and lifetime value.
+#### Monthly Active Purchasers (MAP)
+The number of unique users completing at least one purchase per month. 
 
 
 ### Supporting Metrics (Drivers of MAP Growth)
@@ -47,7 +47,7 @@ The analysis uses a consolidated event-level table combining all five months of 
 ### Key Findings
 #### 1. Conversion & Funnel Performance:
 ##### Segmented Conversion Performance:
-Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, nearly double the 6.58% conversion of traditional browsers, highlighting the strong impact of targeted marketing channels.
+Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, nearly double the 7% conversion of traditional browsers, highlighting the strong impact of targeted marketing channels.
 
 ##### High Cart Abandonment:
 78% of all 'Add to Cart' events fail to reach the checkout stage, with the 'Remove from Cart' event rate (70%) significantly exceeding industry benchmarks. This indicates high transactional volatility, where more than half of intent-signals are being actively reversed, leading to substantial revenue leakage.
@@ -62,28 +62,27 @@ Items removed from the cart (£5.23) are slightly more expensive than purchased 
 
 Analyzing conversion patterns revealed an important nuance: not all users follow the traditional browse-to-purchase path. While 97.6% of users (1.6M) engage in traditional product browsing, a smaller segment of 40,000 users (2.4%) add items directly to cart without viewing product pages first.
 
-#### 1.1a Traditional Browsers: The Core Audience
-This segment OF 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 6.58% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage — among those who add items to cart, a substantial majority abandon without completing purchase (78%).
 
-#### 1.1b Direct-to-Cart Users: The High-Intent Segment
-This smaller cohort of 40,000 users exhibits dramatically different behavior. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset.
-The 12.04% conversion rate—nearly double that of traditional browsers—validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%).
 
-#### 1.2 The Cart Abandonment Challenge: 70% of Users Never Purchase
+|<img width="1023" height="573" alt="Screenshot 2026-01-11 183245" src="https://github.com/user-attachments/assets/de5d8edb-ab3e-433b-97f9-6b900eefddfd" />|<img width="959" height="537" alt="Screenshot 2026-01-11 184342" src="https://github.com/user-attachments/assets/13a40685-484e-4b36-bfa3-9bb58c4794e2" />|
+| -------- | -------- |
+| **Traditional Browsers (The Core Audience)**: <br> This segment OF 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> The High-Intent SegmentThis smaller cohort of 40K users exhibits dramatically different behavior. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset.The 12% conversion rate—nearly double that of traditional browsers—validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%).| 
+
+#### 1.1 The Cart Abandonment Challenge: 70% of Users Never Purchase
 Once users demonstrate purchase intent by adding items to cart, 70.53% fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost—the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
 
 Breaking down this 78% abandonment reveals two distinct user behaviors:
-#### 1.2a Active Removal: 70% Explicit Remove Rate
+#### 1.1a Active Removal: 70% Explicit Remove Rate
 More than half of cart users actively click "remove" to delete items, representing a conscious decision to reverse their initial purchase intent. This 54.49% rate far exceeds the 15-30% industry norm for active removals, suggesting systematic issues influencing user decision-making.
 
 The **analysis of removed products** provides insight into average removed product price -  £5.23 (removed products) vs. £4.93 (purchased products). The 6% price difference tells us that products being removed aren't expensive in absolute terms—most are under £11. This suggests the issue isn't product price shock but rather relative value perception. Users add items to cart during browsing, but upon reviewing cart totals or comparing options, decide the value proposition isn't compelling enough. Factors that dirve active removal include the follwing - High shipping costs, cart used as a comparison tool, promotional expectations not met. 
 
-#### 1.2b Passive Abandonment: 8.7% Leave Without Action
+#### 1.1b Passive Abandonment: 8.7% Leave Without Action
 These users showed enough interest to add products but got distracted or deferred the decision. These users showed enough interest to add products but got distracted or deferred the decision. The relatively low passive abandonment rate (8.7% vs. 70% active) actually indicates that the problem isn't user distraction or checkout friction—users are actively choosing not to buy rather than passively forgetting. This reinforces that the core issue lies in the purchase decision itself, not the checkout process.
 
-#### 1.3 Monthly Performance Trends
+#### 1.2 Monthly Performance Trends
+<img width="1468" height="401" alt="Screenshot 2026-01-08 172225" src="https://github.com/user-attachments/assets/91e6e901-d1da-4f53-a085-239e875fb047" />
 
-<img width="717" height="274" alt="Screenshot 2026-01-08 104104" src="https://github.com/user-attachments/assets/ad1b0380-d5a6-4757-b0cd-2bc892ee7531" />
 
 November 2019 stands out with an 8.86% conversion rate and 75.42% cart abandonment—the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
 
