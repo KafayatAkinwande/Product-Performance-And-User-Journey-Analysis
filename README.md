@@ -1,6 +1,6 @@
 <div align="center">  <img width="200" height="200" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
 
-# Product Performance And User Journey Analysis: A Funnel Optimization for E-Commerce
+# <div align="center"> Product Performance And User Journey Analysis: A Funnel Optimization for E-Commerce </div>
 
 ## 1. Background and Overview
 
@@ -21,7 +21,7 @@ The number of unique users completing at least one purchase per month.
 The following six metrics directly influence the North Star Metric and form the analytical framework for this project:
 
 - User Conversion Rate - Percentage of users who view products and complete a purchase
-- 30-Day Activation Rate - Percentage of new users making their first purchase within 30 days
+- 7-Day Activation Rate - Percentage of new users making their first purchase within 30 days
 - 90-Day Cohort Retention - Percentage of first-time buyers who return to purchase within 90 days
 - Multi-Product Engagement Rate - Percentage of users purchasing from multiple product categories
 - Power User Ratio - Percentage of users making 3+ purchases within 90 days
@@ -56,9 +56,13 @@ Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, ne
 Converting users explore 38 products vs 4 for non-converters, indicating substantial product comparison is required for purchase.
 Items removed from the cart (£5.23) are slightly more expensive than purchased items (£4.93), suggesting relative price sensitivity as a potential growth lever.
 
+#### 2. 7-Day Activation Rate 
+The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the critical first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours—represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
+
 
 ## 4. Insight Deep Dive
-### 1. Understanding the Conversion Funnel: Two Distinct User Journeys
+
+## <div align="center"> User Conversion Rate: Two Distinct User Journeys </div>
 
 Analyzing conversion patterns revealed an important nuance: not all users follow the traditional browse-to-purchase path. While 97.6% of users (1.6M) engage in traditional product browsing, a smaller segment of 40,000 users (2.4%) add items directly to cart without viewing product pages first.
 
@@ -89,6 +93,13 @@ November 2019 stands out with an 8.86% conversion rate and 75.42% cart abandonme
 Understanding what drove November's outperformance could inform strategies to replicate that success in other months. Conversely, October's 80.75% cart abandonment—the worst performance—requires an investigation into whether it represents a seasonal baseline or a specific issue that month.
 
 The relative stability of December through February (6.79-7.15% conversion, apprx. 78% abandonment) suggests a baseline performance level when no exceptional factors are present, making November an instructive outlier rather than November being normal and other months being problematic.
+
+
+## <div align="center">  7-Day Activation Rate </div>
+
+The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the **first week of arrival** at Alluring Cosmetics e-commerce website. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across Traditional browsers and Direct-to-Cart users as seen below.
+
+<img width="1032" height="266" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" />
 
 ## 5. Recommendations
 Based on the analysis findings, the following actionable items can be prioritized by Alluring Cosmetics:
