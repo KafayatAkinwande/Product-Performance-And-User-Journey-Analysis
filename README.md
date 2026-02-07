@@ -1,4 +1,4 @@
-<div align="center">  <img width="200" height="200" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
+<div align="center">  <img width="400" height="300" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
 
 # <div align="center"> Product Performance And User Journey Analysis: A Funnel Optimization for E-Commerce </div>
 
@@ -52,12 +52,12 @@ Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, ne
 ##### High Cart Abandonment:
 78% of all 'Add to Cart' events fail to reach the checkout stage, with the 'Remove from Cart' event rate (70%) significantly exceeding industry benchmarks. This indicates high transactional volatility, where more than half of intent-signals are being actively reversed, leading to substantial revenue leakage.
 
-##### Behavioral and Pricing Insights:
+##### Behavioural and Pricing Insights:
 Converting users explore 38 products vs 4 for non-converters, indicating substantial product comparison is required for purchase.
 Items removed from the cart (£5.23) are slightly more expensive than purchased items (£4.93), suggesting relative price sensitivity as a potential growth lever.
 
 #### 2. 7-Day Activation Rate 
-The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the critical first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours—represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
+The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the critical first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
 
 
 ## 4. Insight Deep Dive
@@ -97,11 +97,30 @@ The relative stability of December through February (6.79-7.15% conversion, appr
 
 ## <div align="center">  7-Day Activation Rate </div>
 
-The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the **first week of arrival** at Alluring Cosmetics e-commerce website. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across Traditional browsers and Direct-to-Cart users as seen below.
+<div align="center">  <img width="800" height="400" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" /> </div>
 
-<img width="1032" height="266" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" />
+The **7-day activation analysis** reveals that only **5% of new users** complete their first purchase within the **first week of arrival** at Alluring Cosmetics e-commerce website. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across Traditional browsers and Direct-to-Cart users as seen below.
+
+#### 2.1 Two User Journeys, Vastly Different Outcomes
+<img width="550" height="352" alt="Screenshot 2026-01-24 231210" src="https://github.com/user-attachments/assets/cb1e0178-158f-4e16-9e4e-7c7039145314" />
+
+The 2.4x performance advantage of Direct-to-Cart users validates current email marketing and social commerce strategies. 
+These users arrive pre-qualified—marketing content has already communicated product value, addressed objections, and built purchase intent before they reach the website. The platform simply needs to facilitate the transaction, not persuade them to buy.
+
+#### 2.2 The First Week is Make-or-Break
+<img width="550" height="556" alt="Screenshot 2026-01-25 162728" src="https://github.com/user-attachments/assets/9d908be1-d73e-4def-a064-b5704138152c" />
+
+Examining when users make their first purchase after initial arrival reveals stark urgency patterns. Of all users who eventually purchase, 84% complete their first transaction within 7 days of their first platform interaction. 
+The remaining 16% purchase between days 8-30, with virtually no purchases occurring beyond 30 days. Users who don't purchase within the first week are overwhelmingly unlikely to convert at all, the platform has one week to convince new visitors of value before losing them permanently.
+
+#### 2.3 Day 0 Dominates
+<img width="550" height="341" alt="Screenshot 2026-01-25 170751" src="https://github.com/user-attachments/assets/99fc508a-26b1-463c-b79f-8da95b94e146" />
+
+Within the 7-day activation window, purchase timing concentrates heavily on Day 0 (same calendar day as first arrival). Of the 80,367 users who activated within 7 days, 57K (80%) purchased on Day 0 itself.
+The first-hour experience must be optimized for immediate conversion. Friction in product discovery, cart processes, or checkout during this window directly impacts activation rates. Mobile experience is particularly critical, as impulse purchases disproportionately occur on mobile devices.
 
 ## 5. Recommendations
+
 Based on the analysis findings, the following actionable items can be prioritized by Alluring Cosmetics:
 
 ### 5.a Conversion Funnel
@@ -116,6 +135,16 @@ Based on the analysis findings, the following actionable items can be prioritize
 - Expand email product campaigns - Increase frequency of emails featuring specific products with "Add to Cart" CTAs. Direct-to-cart users have already self-qualified their interest.
 - Increase social media product tagging - Tag more products in Instagram/Facebook posts, creating shoppable content that bypasses product pages
 
+### 5.b Activation Rate
+
+
+#### Scale Direct-to-Cart Acquisition Channels (12% Activation Rate)
+- Direct-to-Cart users activate at 12%, more than double Traditional Browsers at 5%. Growing this segment from 2.5% to 5% of traffic delivers disproportionate activation gains. This can be achieved by expanding **email product campaigns**, **increasing social commerce product tagging**, and **implementing influencer affiliate program**.
+- Expected impact : A growth in Direct-to-Cart segment from 40K to 80K users monthly,  at 12% activation = 9,600 activated users vs current 4,900 : A 4,700 incremental activations resulting in additional revenue.
+
+#### Optimize First-Hour Conversion Experience
+- 80% of Day 0 purchases occur within 1 hour of first arrival. This impulse window represents the highest-conversion opportunity but also the highest-friction risk. This can be optimised through the **implementation of exit-intent intervention**, **reduced checkout friction**, **optimized mobile experience**.
+- Expected impact Increasing Day 0 conversion rate by 10% (from 80% to 88% of 7-day activations concentrated on Day 0) = 5,800 
 
 
 
