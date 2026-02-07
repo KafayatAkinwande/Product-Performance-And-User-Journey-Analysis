@@ -95,7 +95,7 @@ Understanding what drove November's outperformance could inform strategies to re
 The relative stability of December through February (6.79-7.15% conversion, apprx. 78% abandonment) suggests a baseline performance level when no exceptional factors are present, making November an instructive outlier rather than November being normal and other months being problematic.
 
 
-## <div align="center">  7-Day Activation Rate </div>
+## <div align="center">  7-Day Activation Rate </div> 
 
 <div align="center">  <img width="800" height="400" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" /> </div>
 
@@ -118,6 +118,8 @@ The remaining 16% purchase between days 8-30, with virtually no purchases occurr
 
 Within the 7-day activation window, purchase timing concentrates heavily on Day 0 (same calendar day as first arrival). Of the 80,367 users who activated within 7 days, 57K (80%) purchased on Day 0 itself.
 The first-hour experience must be optimized for immediate conversion. Friction in product discovery, cart processes, or checkout during this window directly impacts activation rates. Mobile experience is particularly critical, as impulse purchases disproportionately occur on mobile devices.
+
+## <div align="center"> 90-Day Cohort Retention </div>
 
 ## 5. Recommendations
 
