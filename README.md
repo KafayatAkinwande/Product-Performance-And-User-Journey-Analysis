@@ -121,6 +121,9 @@ The first-hour experience must be optimized for immediate conversion. Friction i
 
 ## <div align="center"> 90-Day Cohort Retention </div>
 
+
+<div align="center"> <img width="601" height="338" alt="Screenshot 2026-02-07 234352" src="https://github.com/user-attachments/assets/92bfd1b2-db49-4892-82e3-9949555145de" /> </div>
+
 ## 5. Recommendations
 
 Based on the analysis findings, the following actionable items can be prioritized by Alluring Cosmetics:
