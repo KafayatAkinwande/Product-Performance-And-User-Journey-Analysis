@@ -59,6 +59,11 @@ Items removed from the cart (£5.23) are slightly more expensive than purchased 
 #### 2. 7-Day Activation Rate 
 The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the critical first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
 
+#### 3. 90-Day Cohort Retention
+Overall 90-day cohort analysis shows a 28.7% retention rate, with 15K of 53K first-time buyers returning to purchase, and clear cohort variation with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than impulse buyers, highlighting the trade-off between speed and long-term value.
+
+
+
 
 ## 4. Insight Deep Dive
 
@@ -101,7 +106,8 @@ The relative stability of December through February (6.79-7.15% conversion, appr
 
 The **7-day activation analysis** reveals that only **5% of new users** complete their first purchase within the **first week of arrival** at Alluring Cosmetics e-commerce website. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across Traditional browsers and Direct-to-Cart users as seen below.
 
-#### 2.1 Two User Journeys, Vastly Different Outcomes
+#### 2.1 Two User Journeys, Vastly Different Outcomes 
+
 <img width="550" height="352" alt="Screenshot 2026-01-24 231210" src="https://github.com/user-attachments/assets/cb1e0178-158f-4e16-9e4e-7c7039145314" />
 
 The 2.4x performance advantage of Direct-to-Cart users validates current email marketing and social commerce strategies. 
@@ -123,6 +129,16 @@ The first-hour experience must be optimized for immediate conversion. Friction i
 
 
 <div align="center"> <img width="601" height="338" alt="Screenshot 2026-02-07 234352" src="https://github.com/user-attachments/assets/92bfd1b2-db49-4892-82e3-9949555145de" /> </div>
+
+
+The 90-day cohort retention analysis reveals that 28.67% of first-time buyers return to make a second purchase within 90 days of their initial transaction, which sits within typical cosmetics e-commerce benchmarks (15-30%).
+
+#### The Retention Curve
+
+<img width="940" height="552" alt="Screenshot 2026-02-08 233637" src="https://github.com/user-attachments/assets/759e95e0-77fc-4fcc-85e8-efda322e68f6" />
+
+
+Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility.
 
 ## 5. Recommendations
 
