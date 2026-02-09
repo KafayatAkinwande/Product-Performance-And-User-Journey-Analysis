@@ -143,6 +143,10 @@ The observed 90-day retention pattern reflects a mix of transactional behavior a
 #### 3.2 Cohort Performance: October's 32% vs November's 25%
 
 
+
+<img width="667" height="556" alt="Screenshot 2026-02-09 162020" src="https://github.com/user-attachments/assets/0bf28329-3ca2-44a7-80ed-5a0c9c2d269d" />
+
+
 Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility.
 
 ## 5. Recommendations
