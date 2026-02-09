@@ -140,6 +140,8 @@ The first-hour experience must be optimized for immediate conversion. Friction i
 ##### What the Curve Reveals
 The observed 90-day retention pattern reflects a mix of transactional behavior and genuine repeat demand, rather than a simple loyalty progression. Early repurchases **(Days 0–7, 7.03%)** are best interpreted as post-purchase corrections and operational follow-ups, while the strongest growth between **Days 8–30 (+10.15pp)** aligns with the first realistic repurchase window driven by product depletion and lifecycle marketing exposure. **Beyond Day 60**, retention flattens, indicating that most repeat demand has already happened, and that the remaining repurchasers represent a smaller, high-intent segment. making this window more valuable for identifying true long-term customers than for driving incremental volume.
 
+#### 3.2 Cohort Performance: October's 32% vs November's 25%
+
 
 Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility.
 
