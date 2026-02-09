@@ -133,9 +133,12 @@ The first-hour experience must be optimized for immediate conversion. Friction i
 
 28.67% of first-time buyers return to make a second purchase within 90 days of their initial transaction, sitting perfectlyly within the typical cosmetics e-commerce benchmarks (15-30%). A further breakdown of retention quality across acquisition channels and purchase timing is seen below
 
-#### The Retention Curve
+#### 3.1 The Retention Curve
 
 <img width="640" height="452" alt="Screenshot 2026-02-08 233637" src="https://github.com/user-attachments/assets/759e95e0-77fc-4fcc-85e8-efda322e68f6" />
+
+##### What the Curve Reveals
+The observed 90-day retention pattern reflects a mix of transactional behavior and genuine repeat demand, rather than a simple loyalty progression. Early repurchases **(Days 0–7, 7.03%)** are best interpreted as post-purchase corrections and operational follow-ups, while the strongest growth between **Days 8–30 (+10.15pp)** aligns with the first realistic repurchase window driven by product depletion and lifecycle marketing exposure. **Beyond Day 60**, retention flattens, indicating that most repeat demand has already happened, and that the remaining repurchasers represent a smaller, high-intent segment. making this window more valuable for identifying true long-term customers than for driving incremental volume.
 
 
 Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility.
