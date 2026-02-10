@@ -150,7 +150,7 @@ The October cohort outperformed November on 90-day retention (32% vs 25%) despit
 - October purchases were more likely driven by product appeal (shade match, formulation, reviews) rather than price incentives. November’s Black Friday environment typically attracts deal-seekers whose primary motivation is discount depth, not brand affinity, lowering retention despite higher acquisition volume.
 - October purchasers had their entire 90-day window during peak holiday season (Oct-Jan), potentially benefiting from gifting occasions and seasonal product relevance. November buyers' windows (Nov-Feb) include post-holiday months with reduced cosmetics purchase motivation.
 
-#### 3.3 Retention by User Type
+#### 3.3 Retention by User Type: Traditional v Direct-to-Cart
 
 <img width="515" height="245" alt="Screenshot 2026-02-10 162938" src="https://github.com/user-attachments/assets/419cc9c0-0919-4d5c-9d0e-5a999e972d50" />
 
