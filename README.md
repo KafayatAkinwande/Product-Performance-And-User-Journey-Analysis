@@ -120,7 +120,7 @@ Examining when users make their first purchase after initial arrival reveals sta
 The remaining 16% purchase between days 8-30, with virtually no purchases occurring beyond 30 days. Users who don't purchase within the first week are overwhelmingly unlikely to convert at all, the platform has one week to convince new visitors of value before losing them permanently.
 
 #### 2.3 Day 0 Dominates
-<img width="550" height="341" alt="Screenshot 2026-01-25 170751" src="https://github.com/user-attachments/assets/99fc508a-26b1-463c-b79f-8da95b94e146" />
+<img width="658" height="360" alt="Screenshot 2026-02-10 161309" src="https://github.com/user-attachments/assets/c0b42875-2408-48e6-8359-522b82a0f6fe" />
 
 Within the 7-day activation window, purchase timing concentrates heavily on Day 0 (same calendar day as first arrival). Of the 80,367 users who activated within 7 days, 57K (80%) purchased on Day 0 itself.
 The first-hour experience must be optimized for immediate conversion. Friction in product discovery, cart processes, or checkout during this window directly impacts activation rates. Mobile experience is particularly critical, as impulse purchases disproportionately occur on mobile devices.
@@ -141,11 +141,18 @@ The first-hour experience must be optimized for immediate conversion. Friction i
 The observed 90-day retention pattern reflects a mix of transactional behavior and genuine repeat demand, rather than a simple loyalty progression. Early repurchases **(Days 0–7, 7.03%)** are best interpreted as post-purchase corrections and operational follow-ups, while the strongest growth between **Days 8–30 (+10.15pp)** aligns with the first realistic repurchase window driven by product depletion and lifecycle marketing exposure. **Beyond Day 60**, retention flattens, indicating that most repeat demand has already happened, and that the remaining repurchasers represent a smaller, high-intent segment. making this window more valuable for identifying true long-term customers than for driving incremental volume.
 
 #### 3.2 Cohort Performance: October's 32% vs November's 25%
+<img width="467" height="356" alt="Screenshot 2026-02-09 162020" src="https://github.com/user-attachments/assets/0bf28329-3ca2-44a7-80ed-5a0c9c2d269d" />
 
+The October cohort outperformed November on 90-day retention (32% vs 25%) despite having fewer first-time buyers, indicating that October acquired higher-quality customers, while November scaled volume at the expense of retention efficiency.
 
+**Why October May Have Performed Better**
+- October buyers likely represent planners, customers shopping ahead of the holiday rush rather than reacting to discounts. This group tends to be more intentional, less price-sensitive, and more aligned with long-term brand value, which translates into stronger repeat-purchase behaviour.
+- October purchases were more likely driven by product appeal (shade match, formulation, reviews) rather than price incentives. November’s Black Friday environment typically attracts deal-seekers whose primary motivation is discount depth, not brand affinity, lowering retention despite higher acquisition volume.
+- October purchasers had their entire 90-day window during peak holiday season (Oct-Jan), potentially benefiting from gifting occasions and seasonal product relevance. November buyers' windows (Nov-Feb) include post-holiday months with reduced cosmetics purchase motivation.
 
-<img width="667" height="556" alt="Screenshot 2026-02-09 162020" src="https://github.com/user-attachments/assets/0bf28329-3ca2-44a7-80ed-5a0c9c2d269d" />
+#### 3.3 Retention by User Type
 
+<img width="515" height="245" alt="Screenshot 2026-02-10 162938" src="https://github.com/user-attachments/assets/419cc9c0-0919-4d5c-9d0e-5a999e972d50" />
 
 Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility.
 
@@ -174,7 +181,16 @@ Based on the analysis findings, the following actionable items can be prioritize
 
 #### Optimize First-Hour Conversion Experience
 - 80% of Day 0 purchases occur within 1 hour of first arrival. This impulse window represents the highest-conversion opportunity but also the highest-friction risk. This can be optimised through the **implementation of exit-intent intervention**, **reduced checkout friction**, **optimized mobile experience**.
-- Expected impact Increasing Day 0 conversion rate by 10% (from 80% to 88% of 7-day activations concentrated on Day 0) = 5,800 
+- Expected impact Increasing Day 0 conversion rate by 10% (from 80% to 88% of 7-day activations concentrated on Day 0) = 5,800
+
+
+## 90 DAY RETENTION RATE
+**What This Means Strategically**
+
+October’s performance suggests that how customers are acquired matters more than how many are acquired. Scaling via promotions can inflate top-of-funnel growth, but sustainable revenue is driven by cohorts acquired through product-driven intent, not discount urgency.
+
+Critical Question for Further Investigation:
+Did marketing strategy, promotional intensity, or traffic source mix differ between October and November? Understanding what drove October's superior retention could inform acquisition strategy optimization.
 
 
 
