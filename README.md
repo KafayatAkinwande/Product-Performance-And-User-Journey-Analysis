@@ -154,7 +154,43 @@ The October cohort outperformed November on 90-day retention (32% vs 25%) despit
 
 <img width="515" height="245" alt="Screenshot 2026-02-10 162938" src="https://github.com/user-attachments/assets/419cc9c0-0919-4d5c-9d0e-5a999e972d50" />
 
-Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility.
+**Understanding the Difference in Behaviour**
+- Self-Directed Discovery Creates Commitment: Traditional Browsers by nature tend to spend time exploring the product catalog, viewing images, and comparing options. This creates understanding and commmitment to their purchase. Further re-enforcing their slower time to activate, reflecting deliberation which is correlated to satisfaction and viewing images, and repurchase intent. Additionally, users who find Alluring Cosmetics through their own discovery journey demonstrate intrinsic interest in the brand or product category, not just response to promotional stimulus.
+- Campaign-Driven Intent is Transactional: Direct-to-Cart users arrive via email campaigns, social media ads, or promotional links with pre-loaded carts. Triggering purchases by marketing efforts. Leading to users with weak brand loyalty, who lack motivation to return at full price. Finally, because Direct-to-Cart users also tend to bypass browsing and validating their choice against other options, they face the risk of lower satisfaction if the promoted product doesn't meet expectations.
+
+
+#### 3.4 Repurchase Timing
+
+<img width="700" height="433" alt="Screenshot 2026-02-13 124130" src="https://github.com/user-attachments/assets/f37d5674-4382-4141-ac8a-c759554eddf8" />
+
+
+Examining when repeat purchases occur within the 90-day window reveals concentration in the earliest days, with a rapid decay pattern suggesting distinct behavioural segments.
+
+##### Time to Second Purchase Distribution
+**- Day 0 (Same-Day Repurchase): 1,349 users**
+Same-day repurchase is not retention; rather, it is a diagnostic metric for transactional behaviour and checkout experience. This behaviours could be driven by Cart Splitting for Free Shipping (customers seeking to exploit multiple promotions), check-out session timeouts, immediate uppsells and payment method switching. Industry benchmarks for checkout frictionsuggest 1-3% is normal, so Alluring Cosmetics is within expected range of 2.4% of day 0 repeat purchases, howvever, extension of session timeouts and earlier timing in upsells can be implemented.
+
+**- Days 1–10 ( Rapid Engagement / Early Satisfaction): 2,896 users**
+These users are likely driven by high satisfaction with the first product, gifting, or small corrections (wrong shade, size, or minor cart adjustments). Some may be influenced by impulse or promotional triggers, so not all purchases indicate “true retention.”
+
+These users are high-value early adopters, and opportunities exist for engagement with loyalty programs, cross-sells, or VIP campaigns to capture early enthusiasm and reinforce brand affinity.
+
+**- Day 11–20: (Early Replenishment / Product Familiarization): 2, 487 users**
+This represents  users starting first natural product usage and replenishment cycles. Stronger signal of product satisfaction, as these users are repurchasing after experiencing the product rather than immediately reacting to UX or promotions.
+
+Critical window for reinforcing product experience through personalized recommendations and retention messaging.These users are potential repeat customers, likely to stick if the first product meets expectations.
+
+**- Day 21–90: (True Retention / Replenishment Window): 8,224 users**
+This aligns with natural cosmetic usage cycles (e.g., mascara, foundation, skincare), reflecting actual satisfaction-driven repurchase behavior. Users in this window are more likely purchasing based on experience with the first product rather than brand curiosity or short-term impulse. This window captures real product-level retention and the formation of repeat customers. And it is a key focus for measuring brand loyalty, product satisfaction, and replenishment behavior.
+
+A strategic focus on customer experience, replenishment reminders, and retention campaigns to maximize LTV.
+
+
+
+**Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility. 
+**
+**Recommendation:** Direct-to-Cart users need post-purchase engagement to convert them into retained customers. Email sequences, educational content, and product recommendations could bridge the retention gap.
+
 
 ## 5. Recommendations
 
