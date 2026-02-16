@@ -75,7 +75,7 @@ Analyzing conversion patterns revealed an important nuance: not all users follow
 
 |<img width="1023" height="573" alt="Screenshot 2026-01-11 183245" src="https://github.com/user-attachments/assets/de5d8edb-ab3e-433b-97f9-6b900eefddfd" />|<img width="959" height="537" alt="Screenshot 2026-01-11 184342" src="https://github.com/user-attachments/assets/13a40685-484e-4b36-bfa3-9bb58c4794e2" />|
 | -------- | -------- |
-| **Traditional Browsers (The Core Audience)**: <br> This segment OF 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> The High-Intent SegmentThis smaller cohort of 40K users exhibits dramatically different behavior. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset.The 12% conversion rate—nearly double that of traditional browsers—validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%).| 
+| **Traditional Browsers (The Core Audience)**: <br> This segment of 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> The High-Intent SegmentThis smaller cohort of 40K users exhibits dramatically different behavior. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset.The 12% conversion rate—nearly double that of traditional browsers—validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%).| 
 
 #### 1.1 The Cart Abandonment Challenge: 70% of Users Never Purchase
 Once users demonstrate purchase intent by adding items to cart, 70.53% fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost—the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
@@ -93,7 +93,7 @@ These users showed enough interest to add products but got distracted or deferre
 
 <img width="1471" height="407" alt="Screenshot 2026-02-16 150926" src="https://github.com/user-attachments/assets/9dbe4e13-58d3-424c-b738-1895d159b5ce" />
 
-November 2019 stands out with an 8.86% conversion rate and 75.42% cart abandonment—the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
+**November 2019** stands out with an 8.86% conversion rate and 75.42% cart abandonment—the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
 
 Understanding what drove November's outperformance could inform strategies to replicate that success in other months. Conversely, October's 80.75% cart abandonment—the worst performance—requires an investigation into whether it represents a seasonal baseline or a specific issue that month.
 
@@ -185,10 +185,9 @@ This aligns with natural cosmetic usage cycles (e.g., mascara, foundation, skinc
 
 A strategic focus on customer experience, replenishment reminders, and retention campaigns to maximize LTV.
 
+ 
 
 
-**Cohorts used for this 90-day retention analysis are **Oct 2019 and Nov 2019**. December 2019 onward cohorts were excluded because their 90-day observation windows extend beyond the dataset end date (February 29, 2020), creating incomplete retention visibility. 
-**
 **Recommendation:** Direct-to-Cart users need post-purchase engagement to convert them into retained customers. Email sequences, educational content, and product recommendations could bridge the retention gap.
 
 
@@ -227,6 +226,20 @@ October’s performance suggests that how customers are acquired matters more th
 
 Critical Question for Further Investigation:
 Did marketing strategy, promotional intensity, or traffic source mix differ between October and November? Understanding what drove October's superior retention could inform acquisition strategy optimization.
+
+
+# Cohort Selection and Exclusion Logic
+Included Cohorts:
+
+October 2019: First purchases Oct 1-31, 2019 → 90-day window ends Dec 30, 2019 - Jan 29, 2020
+November 2019: First purchases Nov 1-30, 2019 → 90-day window ends Jan 30 - Feb 28, 2020
+
+Excluded Cohorts:
+
+December 2019 onward: 90-day windows extend beyond February 29, 2020 data availability
+
+Exclusion Rationale:
+Including incomplete cohorts would mark users as "not retained" when their repeat purchases occurred outside observable data range. This would artificially deflate retention rates and produce misleading insights.
 
 
 
