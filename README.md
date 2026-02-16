@@ -90,8 +90,8 @@ The **analysis of removed products** provides insight into average removed produ
 These users showed enough interest to add products but got distracted or deferred the decision. These users showed enough interest to add products but got distracted or deferred the decision. The relatively low passive abandonment rate (8.7% vs. 70% active) actually indicates that the problem isn't user distraction or checkout friction—users are actively choosing not to buy rather than passively forgetting. This reinforces that the core issue lies in the purchase decision itself, not the checkout process.
 
 #### 1.2 Monthly Performance Trends
-<img width="1468" height="401" alt="Screenshot 2026-01-08 172225" src="https://github.com/user-attachments/assets/91e6e901-d1da-4f53-a085-239e875fb047" />
 
+<img width="1471" height="407" alt="Screenshot 2026-02-16 150926" src="https://github.com/user-attachments/assets/9dbe4e13-58d3-424c-b738-1895d159b5ce" />
 
 November 2019 stands out with an 8.86% conversion rate and 75.42% cart abandonment—the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
 
