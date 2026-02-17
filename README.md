@@ -1,6 +1,6 @@
 <div align="center">  <img width="400" height="300" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
 
-# <div align="center"> Product Performance And User Journey Analysis: A Funnel Optimization for E-Commerce </div>
+# <div align="center"> Product Performance And User Journey Analysis</div>
 
 ## 1. Background and Overview
 
