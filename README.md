@@ -18,15 +18,11 @@ The number of unique users completing at least one purchase per month.
 
 
 ### Supporting Metrics (Drivers of MAP Growth)
-The following six metrics directly influence the North Star Metric and form the analytical framework for this project:
+The following three metrics directly influence the North Star Metric and form the analytical framework for this project:
 
 - User Conversion Rate - Percentage of users who view products and complete a purchase
 - 7-Day Activation Rate - Percentage of new users making their first purchase within 30 days
 - 90-Day Cohort Retention - Percentage of first-time buyers who return to purchase within 90 days
-- Multi-Product Engagement Rate - Percentage of users purchasing from multiple product categories
-- Power User Ratio - Percentage of users making 3+ purchases within 90 days
-- Time Between Purchases – Shorter cycles = more frequent revenue.
-- Revenue per Active User (RPAU) - Average revenue generated per purchasing user
 
 ## 2. Data Structure and Overview
 
@@ -214,16 +210,17 @@ Direct-to-cart users convert more. Alluring Cosmetics should lean into it.
 - Include product images and direct checkout link - Show exact items left in cart with prices and "Complete Purchase" button going straight to checkout.
 - Test incentive in final email - A/B test with vs. without 10% discount in 72-hour email to measure incremental conversion vs. margin impact.
 
-### 5.b Activation Rate
+### 5.b 7-Day Activation Rate 
+
+Users who do not purchase in the first 7 days are very unlikely to convert later. The first week is the make-or-break window. If we do not win them early, we lose them.
 
 #### Scale Direct-to-Cart Acquisition Channels (12% Activation Rate)
 - Direct-to-Cart users activate at 12%, more than double Traditional Browsers at 5%. Growing this segment from 2.5% to 5% of traffic delivers disproportionate activation gains. This can be achieved by expanding **email product campaigns**, **increasing social commerce product tagging**, and **implementing influencer affiliate program**.
-- Expected impact : A growth in Direct-to-Cart segment from 40K to 80K users monthly,  at 12% activation = 9,600 activated users vs current 4,900 : A 4,700 incremental activations resulting in additional revenue.
 
 #### Optimize First-Hour Conversion Experience
-- 80% of Day 0 purchases occur within 1 hour of first arrival. This impulse window represents the highest-conversion opportunity but also the highest-friction risk. This can be optimised through the **implementation of exit-intent intervention**, **reduced checkout friction**, **optimized mobile experience**.
-- Expected impact Increasing Day 0 conversion rate by 10% (from 80% to 88% of 7-day activations concentrated on Day 0) = 5,800
+- 80% of Day 0 purchases occur within 1 hour of first arrival. This impulse window represents the highest-conversion opportunity but also the highest-friction risk. It should be well protected. It can be optimised through the **implementation of exit-intent intervention**, **reduced checkout friction**, **optimized mobile experience**.
 
+### 5.c 90-Day Cohort Retention
 
 ## 90 DAY RETENTION RATE
 **What This Means Strategically**
