@@ -98,11 +98,11 @@ These users showed enough interest to add products but did not complete checkout
 
 <img width="1471" height="407" alt="Screenshot 2026-02-16 150926" src="https://github.com/user-attachments/assets/9dbe4e13-58d3-424c-b738-1895d159b5ce" />
 
-**November 2019** stands out with an 8.86% conversion rate and 75.42% cart abandonment—the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
+**November 2019** stands out with an 8.86% conversion rate and 75.42% cart abandonment, the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
 
-Understanding what drove November's outperformance could inform strategies to replicate that success in other months. Conversely, October's 80.75% cart abandonment—the worst performance—requires an investigation into whether it represents a seasonal baseline or a specific issue that month.
+Understanding what drove November's outperformance could inform strategies to replicate that success in other months. Conversely, October's 80.07% cart abandonment, the worst performance, requires an investigation into whether it represents a seasonal baseline or a specific issue that month.
 
-The relative stability of December through February (6.79-7.15% conversion, apprx. 78% abandonment) suggests a baseline performance level when no exceptional factors are present, making November an instructive outlier rather than November being normal and other months being problematic.
+The relative stability of December through February (6.79-7.15% conversion, and apprx. 78% abandonment) suggests a baseline performance level when no exceptional factors are present, making November an instructive outlier rather than November being normal and other months being problematic.
 
 
 ## <div align="center">  7-Day Activation Rate </div> 
@@ -201,19 +201,20 @@ A strategic focus on customer experience, replenishment reminders, and retention
 Based on the analysis findings, the following actionable items can be prioritized by Alluring Cosmetics:
 
 ### 5.a Conversion Funnel
-
+#### Scale Direct-to-Cart Channels Given 12% Conversion Advantage
+Direct-to-cart users convert more. Alluring Cosmetics should lean into it.
+- Expand email product campaigns -Send more product-focused emails with clear Add to Cart buttons. These users already have intent. Make acting on it easy.
+- Increase social media product tagging- Tag more products in posts and stories. Let users shop without leaving the feed or browsing multiple pages.
+- Enhance recommendation widgets - Add Quick Add to Cart buttons on homepage, category pages, and post-purchase screens. Capture impulse decisions in the moment.
 #### Reduce Active Removal Through Improved Value Transparency
-- Implement exit-intent intervention - When user attempts to remove item, trigger popup: "Wait! Here's 10% off this item" or "Customers also bought [cheaper alternative] instead." Test message variants for effectiveness.
+- Implement exit-intent intervention - When users attempts to remove item, trigger popup: "Wait! Here's 10% off this item" or "Customers also bought cheaper alternative instead." Test message variants for effectiveness.
 - Add social proof at cart stage - Display "127 people bought this today" or "4.5★ based on 1,234 reviews" for items in cart. Reinforces purchase decision when users are wavering.
 #### Implement Cart Recovery Campaign for Passive Abandoners
 - Automated email sequence - Email #1 at 1 hour: "You left items in your cart." Email #2 at 24 hours: "Still interested? Cart expires soon." Email #3 at 72 hours: "Last chance—complete your order."
 - Include product images and direct checkout link - Show exact items left in cart with prices and "Complete Purchase" button going straight to checkout.
-#### Scale Direct-to-Cart Channels Given 12.04% Conversion Advantage
-- Expand email product campaigns - Increase frequency of emails featuring specific products with "Add to Cart" CTAs. Direct-to-cart users have already self-qualified their interest.
-- Increase social media product tagging - Tag more products in Instagram/Facebook posts, creating shoppable content that bypasses product pages
+- Test incentive in final email - A/B test with vs. without 10% discount in 72-hour email to measure incremental conversion vs. margin impact.
 
 ### 5.b Activation Rate
-
 
 #### Scale Direct-to-Cart Acquisition Channels (12% Activation Rate)
 - Direct-to-Cart users activate at 12%, more than double Traditional Browsers at 5%. Growing this segment from 2.5% to 5% of traffic delivers disproportionate activation gains. This can be achieved by expanding **email product campaigns**, **increasing social commerce product tagging**, and **implementing influencer affiliate program**.
