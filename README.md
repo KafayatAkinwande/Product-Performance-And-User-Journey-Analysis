@@ -77,8 +77,8 @@ Analyzing conversion patterns revealed an important nuance: not all users follow
 | -------- | -------- |
 | **Traditional Browsers (The Core Audience)**: <br> This segment of 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> Also called The High-Intent Segment. This smaller cohort of 40K users exhibits dramatically different behaviour. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset. The 12% conversion rate, nearly double that of traditional browsers, validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%).| 
 
-#### 1.1 The Cart Abandonment Challenge: 72% of Users Never Purchase
-Once users demonstrate purchase intent by adding items to cart, 72% fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost, implying the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
+#### 1.1 The Cart Abandonment Challenge
+Once users demonstrate purchase intent by adding items to cart, **72%** fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost, implying the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
 
 Breaking down this 70% abandonment reveals two distinct user behaviours:
 
@@ -92,7 +92,7 @@ The **analysis of removed products** provides insight into average removed produ
 Other **factors that drive active removal** include the following: high shipping costs, cart used as a comparison tool, promotional expectations not met. 
 
 #### 1.1b Passive Abandonment: 26% Leave Without Action
-These users showed enough interest to add products but got distracted or deferred the decision. The relatively low passive abandonment rate (26% vs. 46% active) actually indicates that the problem isn't user distraction or checkout friction; users are actively choosing not to buy rather than passively forgetting. This reinforces that the core issue lies in the purchase decision itself, not the checkout process.
+These users showed enough interest to add products but did not complete checkout due to inactivity, session timeout, interruption or deferred the decision. The relatively low passive abandonment rate (26% vs. 46% active) actually indicates that the problem isn't user distraction or checkout friction; users are actively choosing not to buy rather than passively forgetting. This reinforces that the core issue lies in the purchase decision itself, not the checkout process.
 
 #### 1.2 Monthly Performance Trends
 
