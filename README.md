@@ -132,14 +132,14 @@ The first-hour experience must be optimized for immediate conversion. Friction i
 <div align="center"> <img width="601" height="338" alt="Screenshot 2026-02-07 234352" src="https://github.com/user-attachments/assets/92bfd1b2-db49-4892-82e3-9949555145de" /> </div>
 
 
-28.67% of first-time buyers return to make a second purchase within 90 days of their initial transaction, sitting perfectlyly within the typical cosmetics e-commerce benchmarks (15-30%). A further breakdown of retention quality across acquisition channels and purchase timing is seen below
+28.67% of first-time buyers return to make a second purchase within 90 days of their initial transaction, sitting perfectly within the typical cosmetics e-commerce benchmarks (15-30%). A further breakdown of retention quality across acquisition channels and purchase timing is seen below.
 
 #### 3.1 The Retention Curve
 
 <img width="640" height="452" alt="Screenshot 2026-02-08 233637" src="https://github.com/user-attachments/assets/759e95e0-77fc-4fcc-85e8-efda322e68f6" />
 
 ##### What the Curve Reveals
-The observed 90-day retention pattern reflects a mix of transactional behavior and genuine repeat demand, rather than a simple loyalty progression. Early repurchases **(Days 0–7, 7.03%)** are best interpreted as post-purchase corrections and operational follow-ups, while the strongest growth between **Days 8–30 (+10.15pp)** aligns with the first realistic repurchase window driven by product depletion and lifecycle marketing exposure. **Beyond Day 60**, retention flattens, indicating that most repeat demand has already happened, and that the remaining repurchasers represent a smaller, high-intent segment. making this window more valuable for identifying true long-term customers than for driving incremental volume.
+The observed 90-day retention pattern reflects a mix of transactional behaviour and genuine repeat demand, rather than a simple loyalty progression. Early repurchases **(Days 0–7, 7.03%)** are best interpreted as post-purchase corrections and operational follow-ups, while the strongest growth between **Days 8–30 (+10.15pp)** aligns with the first realistic repurchase window driven by product depletion and lifecycle marketing exposure. **Beyond Day 60**, retention flattens, indicating that most repeat demand has already happened, and that the remaining repurchasers represent a smaller, high-intent segment - making this window more valuable for identifying true long-term customers than for driving incremental volume.
 
 #### 3.2 Cohort Performance: October's 32% vs November's 25%
 <img width="467" height="356" alt="Screenshot 2026-02-09 162020" src="https://github.com/user-attachments/assets/0bf28329-3ca2-44a7-80ed-5a0c9c2d269d" />
@@ -222,13 +222,35 @@ Users who do not purchase in the first 7 days are very unlikely to convert later
 
 ### 5.c 90-Day Cohort Retention
 
-## 90 DAY RETENTION RATE
-**What This Means Strategically**
+#### Optimize the Day 8-30 Retention Window (60% of Retention Formation Occurs Here)
 
+The retention curve shows steepest growth from Day 7 (7%) to Day 30 (17%), adding 10 percentage points. This is the critical window where most loyalty is formed. The goal is to convert undecided users with targeted incentive during this last high-conversion window.
+- Implement "How's It Going?" Check-In Email Trigger 10 days after first purchase.
+- For Fast-Consumption Products with predictable depletion, send Replenishment Reminder emails on Day 21. This should show product image, direct reorder link and discount on recurring orders
+- Before momentum fades, send a time-bound offer for first-time buyers. Personalize recommendations based on what they bought. Create urgency but keep it credible on Day 30.
+
+#### Investigate and Replicate October Cohort's 32% Retention Success
+
+October 2019 cohort retained 32% versus November's 25%, a 28% performance gap.
+- Compare Marketing Channel Mix (October vs November). Was October more organic? Less discount heavy? Higher intent traffic? Identify what brought better customers. 
+- Review promotions and pricing (if any). Did November Black Friday/Cyber Monday affect behaviour? Were discounts too aggressive? Did free shipping thresholds change?
+- Analyze Product Mix Purchased. Did October buyers purchase different product categories? Product quality or satisfaction differences? 
+- Assess Traffic Source Quality and Referral sources, Paid vs organic ratio Geographic or demographic shift.
 October’s performance suggests that how customers are acquired matters more than how many are acquired. Scaling via promotions can inflate top-of-funnel growth, but sustainable revenue is driven by cohorts acquired through product-driven intent, not discount urgency.
 
-Critical Question for Further Investigation:
-Did marketing strategy, promotional intensity, or traffic source mix differ between October and November? Understanding what drove October's superior retention could inform acquisition strategy optimization.
+#### Bridge the Direct-to-Cart Retention Gap (6% → Target 15%)
+Direct-to-Cart users activate efficiently (12% rate) but retain poorly (6%), representing acquisition investment with minimal lifetime value return.
+- Implement Post-Purchase Education Sequence for Direct-to-Cart Buyers Within 24 hours of first purchase to build connection.
+- Segment Direct-to-Cart Users by Campaign Source: Not all Direct-to-Cart traffic is equal, then analyse retention by campaign type: Email subscribers (likely higher intent), Social media ads (possibly lower quality), Influencer affiliate links (depends on influencer-brand alignment) etc
+- Test Hybrid Journey: Campaign Landing → Browsing Encouraged. Instead of campaign emails with direct "Add to Cart" links, test landing users on curated collection/bundles pages
+
+#### Reduce Day 0 Repurchase Friction (Diagnostic Improvement)
+1,349 users (2.4% of first-time buyers) make a second purchase on the same day as their first - signaling potential checkout or merchandising friction. This is Not Retention: Day 0 repurchase measures transactional issues, not loyalty.  However, reducing friction improves customer experience and potentially converts split purchases into larger single orders.
+
+
+
+
+
 
 
 # Cohort Selection and Exclusion Logic
