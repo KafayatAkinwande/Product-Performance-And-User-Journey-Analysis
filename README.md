@@ -13,9 +13,12 @@ The goal is to understand user behavior patterns across the full purchase journe
 and uncover opportunities to drive sustainable growth. Translating **20 million user events** into actionable insights that inform product development, growth strategy, and monetization decisions. 
 
 ### North Star Metric
-#### Monthly Active Purchasers (MAP)
-The number of unique users completing at least one purchase per month. 
 
+
+<img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
+
+#### Monthly Active Users
+The number of unique users completing at least one purchase per month.
 
 ### Supporting Metrics (Drivers of MAP Growth)
 The following three metrics directly influence the North Star Metric and form the analytical framework for this project:
