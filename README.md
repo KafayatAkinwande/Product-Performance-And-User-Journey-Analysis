@@ -16,10 +16,10 @@ and uncover opportunities to drive sustainable growth. Translating **20 million 
 
 <img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
 
-#### Monthly Active Users
+#### Monthly Active Users (MAU)
 The number of unique users completing at least one purchase per month.
 
-### Supporting Metrics (Drivers of MAP Growth)
+### Supporting Metrics (Drivers of MAU Growth)
 The following three metrics directly influence the North Star Metric and form the analytical framework for this project:
 
 - User Conversion Rate - Percentage of users who view products and complete a purchase
