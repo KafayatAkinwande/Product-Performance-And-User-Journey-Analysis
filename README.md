@@ -14,7 +14,6 @@ and uncover opportunities to drive sustainable growth. Translating **20 million 
 
 ### North Star Metric
 
-
 <img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
 
 #### Monthly Active Users
