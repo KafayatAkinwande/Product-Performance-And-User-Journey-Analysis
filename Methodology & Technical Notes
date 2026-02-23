@@ -1,1 +1,29 @@
-# Methodology & Technical Notes
+# Methodology & Technical Notes 
+
+### Analytical Approach 
+This analysis employs user-based metrics as the primary framework, with event-based metrics providing behavioral context. User-based metrics (e.g., "5% of users activated within 7 days") reflect customer outcomes and business impact, while event-based metrics (e.g., "users viewed 38 products on average") illuminate engagement depth. 
+
+This analysis was carried out using the Microsoft PowerBI tool
+
+### Key Definitions 
+- **New User:** A user experiencing their first tracked event (view, cart, or purchase) during the analysis period. Defined by `first_event_date`
+
+- **7-Day Activation:** A new user who completes their first purchase within 7 days of `first_event_date`. Measured using `DATEDIFF(first_event_date, first_purchase_date, DAY) <= 7`. 
+
+#### User Type Classification: 
+- **Traditional Browser:** Users with ≥1 view event before cart addition
+- **Direct-to-Cart:** Users with cart events but zero view events (arrived via email, social, recommendations)
+- **Unknown:** Users with only purchase events, no views or cart (0.02% of users, documented but not analyzed due to negligible volume) 
+- **Day 0 Purchase:** Same calendar day purchase. `DATEDIFF` in DAY mode returns 0 for same-day events regardless of hour difference. 
+
+### Data Limitations:
+**Data Structure:** Purchase events in this dataset represent product-level line items rather than completed checkout sessions. Therefore, purchase frequency reflects number of items purchased rather than number of checkout transactions.
+
+**Limited Timeframe:** Five-month analysis (October 2019 - February 2020) captures seasonal variation but cannot assess full-year patterns. November's peak performance may represent holiday seasonality rather than replicable baseline. 
+
+**No Marketing Attribution:** Dataset lacks UTM parameters or channel source fields, preventing direct attribution of activation performance to specific marketing campaigns. Channel analysis relies on user behavior patterns (view vs direct-to-cart) as proxy.
+
+**Cohort Selection and Exclusion Logic in 90 Day Retention Analysis:** 
+Included Cohorts: October 2019 & November 2019
+Excluded Cohorts: December 2019 onwards (90-day windows extend beyond February 29, 2020 data availability)
+Exclusion Rationale: Including incomplete cohorts would mark users as "not retained" when their repeat purchases occurred outside observable data range. This would artificially deflate retention rates and produce misleading insights.
