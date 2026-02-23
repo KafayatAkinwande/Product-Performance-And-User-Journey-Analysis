@@ -18,7 +18,7 @@ The number of unique users completing at least one purchase per month.
 The following three metrics directly influence the North Star Metric and form the analytical framework for this project:
 
 - **User Conversion Rate** - Percentage of users who view products and complete a purchase
-- **7-Day Activation Rate** - Percentage of new users making their first purchase within 30 days
+- **7-Day Activation Rate** - Percentage of new users making their first purchase within 7 days
 - **90-Day Cohort Retention** - Percentage of first-time buyers who return to purchase within 90 days
 <br><br><br>
 <img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
