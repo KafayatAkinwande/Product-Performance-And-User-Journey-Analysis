@@ -1,7 +1,6 @@
-<div align="center">  <img width="400" height="300" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
+<div align="center">  <img width="250" height="200" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
 
 # <div align="center"> Product Performance And User Journey Analysis</div>
-_<div align="center">Growth that depends only on campaigns is fragile. Growth supported by predictive behaviour is sustainable.</div>_
 
 ## 1. Background and Overview
 
@@ -24,15 +23,53 @@ The following three metrics directly influence the North Star Metric and form th
 <br><br><br>
 <img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
 
-Revenue follows active purchasing users. When MAU increases, revenue increases. This makes MAU the clearest indicator of demand strength.
-| | |
-|---|---|
-| **Are Users Coming Back?** <br><br> MAU peaked in November (31.5K) following strong acquisition. However, returning user percentage increased steadily from 0% in October to 31% in February. While total MAU declined after November, the composition improved. Growth shifted from campaign-driven expansion to a more stable returning base. | **Are Users Becoming More Valuable?** <br><br> Average Order Value remained stable (~£5 per item). Items per user remained largely stable between 9 and 10 items monthly. Revenue growth did not come from higher pricing or deeper monetization. It scaled primarily with the size of the active purchasing base. |
-| **Is Growth Acquisition-Led or Retention-Led?** <br><br> November's revenue spike aligns with increased acquisition and higher conversion. However, retention rates for subsequent cohorts suggest that promotional spikes did not translate into sustained compounding growth. The business demonstrates strong campaign responsiveness but is still developing a durable retention engine. | **90-Day Retention Context** <br><br> 90-day retention remains a critical indicator of long-term value. While some early cohorts show promising retention, sustained long-term compounding growth requires expanding the returning user base further. |
+Revenue follows active purchasing users. When MAU increases, revenue increases. This makes **MAU the clearest indicator of demand strength**.
+<table align="center">
+  <tr>
+    <div width="1000">
+      <td width="500" valign="top">
+        <ol>
+          <li>
+            <strong>Are Users Coming Back?</strong>
+            <ul>
+              <li>MAU peaked in November (31.5K) following strong acquisition. However, returning user percentage increased steadily from 0% in October to 31% in February.</li>
+              <li>While total MAU declined after November, the composition improved. Growth shifted from campaign-driven expansion to a more stable returning base.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Are Users Becoming More Valuable?</strong>
+            <ul>
+              <li>Average Order Value remained stable (~£5 per item). Items per user remained largely stable between 9 and 10 items monthly.</li>
+              <li>Revenue growth did not come from higher pricing or deeper monetization. It scaled primarily with the number of the active purchasing base.</li>
+            </ul>
+          </li>
+        </ol>
+      </td>
+      <td width="500" valign="top">
+        <ol start="3">
+          <li>
+            <strong>Is Growth Acquisition-Led or Retention-Led?</strong>
+            <ul>
+              <li>November's revenue spike aligns with increased acquisition and higher conversion. However, retention rates for subsequent cohorts suggest that promotional spikes did not translate into sustained compounding growth.</li>
+              <li>The business demonstrates strong campaign responsiveness but is still developing a steady retention stragtegy</li>
+            </ul>
+          </li>
+          <li>
+            <strong>90-Day Retention Context</strong>
+            <ul>
+              <li>90-day retention remains a critical indicator of long-term value. While some early cohorts show promising retention, sustained long-term compounding growth requires expanding the returning user base further.</li>
+            </ul>
+          </li>
+        </ol>
+      </td>
+    </div>
+  </tr>
+</table>
+
+**Strategic Insight**
+<br>Alluring Cosmetics can scale revenue quickly through acquisition campaigns. However, sustainable growth depends on strengthening post-purchase engagement and increasing the proportion of returning active users. The way forward is not simply more traffic, but rather more repeat behavior.
 
 ## 2. Data Structure and Overview
-
-
 ### Dataset Specifications
 - Analysis Period: October 2019 - February 2020 (5 months)
 - Total Events Analyzed: 20 Million behavioral events
