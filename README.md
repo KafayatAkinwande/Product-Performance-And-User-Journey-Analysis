@@ -1,21 +1,17 @@
 <div align="center">  <img width="400" height="300" alt="ChatGPT Image Jan 7, 2026, 11_42_36 AM" src="https://github.com/user-attachments/assets/124f11db-6911-496f-b385-20a03759063b" /> </div>
 
 # <div align="center"> Product Performance And User Journey Analysis</div>
+_<div align="center">Growth that depends only on campaigns is fragile. Growth supported by predictive behaviour is sustainable.</div>_
 
 ## 1. Background and Overview
 
 ### Company Context
-Alluring Cosmetics is a UK-based cosmetics brand operating an e-commerce platform with a product catalog spanning 54,000 unique products serving 1.64 million customers. 
+Alluring Cosmetics is a UK-based budget-friendly cosmetic brand operating an e-commerce platform with a product catalog spanning 54,000 unique products serving 1.64 million customers. 
 The brand has generated **£6.35 million** in total revenue across its marketplace.
 
-Reporting to the Head of Product and Growth, this project is in-depth analysis of Alluring Cosmetics' e-commerce performance over five months **(October 2019 - February 2020)**. 
-The goal is to understand user behavior patterns across the full purchase journey, from initial product discovery through conversion to identify friction points, quantify drop-off rates, 
-and uncover opportunities to drive sustainable growth. Translating **20 million user events** into actionable insights that inform product development, growth strategy, and monetization decisions. 
+Reporting to the Head of Product and Growth, this analysis explores **Monthly Active Users (MAU)** , **acquisition**, **activation**, and **retention** to understand user behavior patterns  and what truly drives sustainable growth at Alluring Cosmetics between October 2019 and February 2020.
 
 ### North Star Metric
-
-<img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
-
 #### Monthly Active Users (MAU)
 The number of unique users completing at least one purchase per month.
 
@@ -25,8 +21,17 @@ The following three metrics directly influence the North Star Metric and form th
 - User Conversion Rate - Percentage of users who view products and complete a purchase
 - 7-Day Activation Rate - Percentage of new users making their first purchase within 30 days
 - 90-Day Cohort Retention - Percentage of first-time buyers who return to purchase within 90 days
+<br><br><br>
+<img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
+
+Revenue follows active purchasing users. When MAU increases, revenue increases. This makes MAU the clearest indicator of demand strength.
+| | |
+|---|---|
+| **Are Users Coming Back?** <br><br> MAU peaked in November (31.5K) following strong acquisition. However, returning user percentage increased steadily from 0% in October to 31% in February. While total MAU declined after November, the composition improved. Growth shifted from campaign-driven expansion to a more stable returning base. | **Are Users Becoming More Valuable?** <br><br> Average Order Value remained stable (~£5 per item). Items per user remained largely stable between 9 and 10 items monthly. Revenue growth did not come from higher pricing or deeper monetization. It scaled primarily with the size of the active purchasing base. |
+| **Is Growth Acquisition-Led or Retention-Led?** <br><br> November's revenue spike aligns with increased acquisition and higher conversion. However, retention rates for subsequent cohorts suggest that promotional spikes did not translate into sustained compounding growth. The business demonstrates strong campaign responsiveness but is still developing a durable retention engine. | **90-Day Retention Context** <br><br> 90-day retention remains a critical indicator of long-term value. While some early cohorts show promising retention, sustained long-term compounding growth requires expanding the returning user base further. |
 
 ## 2. Data Structure and Overview
+
 
 ### Dataset Specifications
 - Analysis Period: October 2019 - February 2020 (5 months)
