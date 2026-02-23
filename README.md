@@ -310,6 +310,9 @@ December 2019 onward: 90-day windows extend beyond February 29, 2020 data availa
 Exclusion Rationale:
 Including incomplete cohorts would mark users as "not retained" when their repeat purchases occurred outside observable data range. This would artificially deflate retention rates and produce misleading insights.
 
+Data Limitations:
+Purchase events in this dataset represent product-level line items rather than completed checkout sessions. Therefore, purchase frequency reflects number of items purchased rather than number of checkout transactions.
+
 
 
 
