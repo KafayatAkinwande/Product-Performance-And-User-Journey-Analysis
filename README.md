@@ -67,12 +67,12 @@ Revenue follows active purchasing users. When MAU increases, revenue increases. 
 </table>
 
 **Strategic Insight**
-<br>Alluring Cosmetics can scale revenue quickly through acquisition campaigns. However, sustainable growth depends on strengthening post-purchase engagement and increasing the proportion of returning active users. The way forward is not simply more traffic, but rather more repeat behavior.
+<br>Alluring Cosmetics can scale revenue quickly through acquisition campaigns. However, sustainable growth depends on strengthening post-purchase engagement and increasing the proportion of returning active users. The way forward is not simply more traffic, but rather more repeat behaviour.
 
 ## 2. Data Structure and Overview
 ### Dataset Specifications
 - Analysis Period: October 2019 - February 2020 (5 months)
-- Total Events Analyzed: 20 Million behavioral events
+- Total Events Analysed: 20 Million behavioural events
 - Event Types Captured: view, cart, remove_from_cart, purchase
 - Unique Users: 1.64 Million customers
 - Unique Products: 54,000 SKUs
@@ -100,7 +100,7 @@ Items removed from the cart (£5.23) are slightly more expensive than purchased 
 The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the critical first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
 
 #### 3. 90-Day Cohort Retention
-Overall 90-day cohort analysis shows a 28.7% retention rate, with 15K of 53K first-time buyers returning to purchase, and clear cohort variation with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than impulse buyers, highlighting the trade-off between speed and long-term value.
+Overall, the 90-day cohort analysis shows a **28.7% retention rate**, with 15K of 53K first-time buyers returning to purchase, and clear cohort variation with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than impulse buyers, highlighting the trade-off between speed and long-term value.
 
 
 
