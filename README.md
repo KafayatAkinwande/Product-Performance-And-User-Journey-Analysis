@@ -245,7 +245,7 @@ A strategic focus on customer experience, replenishment reminders, and retention
 
 ## 5. Recommendations
 
-Based on the analysis findings, the following recommendations are prioritised by expected impact on MAU and sustainable revenue growth in Alluring Cosmetics:
+Based on the findings of this analysis, the following recommendations are prioritised by expected impact on MAU and sustainable revenue growth in Alluring Cosmetics:
 
 ### 5.a Conversion Funnel
 #### Scale Direct-to-Cart Channels Given 12% Conversion Advantage
@@ -253,47 +253,50 @@ Direct-to-cart users convert more but represent only 2.4% of traffic. Alluring C
 - Expand email product campaigns -Send more product-focused emails with clear Add to Cart buttons. These users already have intent. Make acting on it easy.
 - Increase social media product tagging- Tag more products in posts and stories. Let users shop without leaving the feed or browsing multiple pages.
 - Enhance recommendation widgets - Add Quick Add to Cart buttons on homepage, category pages, and post-purchase screens. Capture impulse decisions in the moment.
-#### Reduce Active Removal Through Improved Value Transparency
-- Implement exit-intent intervention - When users attempts to remove item, trigger popup: "Wait! Here's 10% off this item" or "Customers also bought cheaper alternative instead." Test message variants for effectiveness.
-- Add social proof at cart stage - Display "127 people bought this today" or "4.5★ based on 1,234 reviews" for items in cart. Reinforces purchase decision when users are wavering.
-#### Implement Cart Recovery Campaign for Passive Abandoners
+#### Reduce Active Removal Through Improved Value Transparency (46% Active Removal Rate)
+- Implement exit-intent intervention - When users attempt to remove an item, trigger popup: "Wait! Here's 10% off this item" or "Customers also bought cheaper alternative instead." Test message variants for effectiveness.
+- Add social proof at cart stage - Display purchase counts ('127 people bought this today') and ratings ('4.5★ based on 1,234 reviews') directly in the cart view. Reinforces purchase decision when users are having contemplations.
+#### Implement Cart Recovery Campaign for Passive Abandoners (26% of Cart Users)
 - Automated email sequence - Email #1 at 1 hour: "You left items in your cart." Email #2 at 24 hours: "Still interested? Cart expires soon." Email #3 at 72 hours: "Last chance—complete your order."
-- Include product images and direct checkout link - Show exact items left in cart with prices and "Complete Purchase" button going straight to checkout.
-- Test incentive in final email - A/B test with vs. without 10% discount in 72-hour email to measure incremental conversion vs. margin impact.
+- Include product images and direct checkout link in emails - Show the exact items left in cart with a single 'Complete Purchase' button that bypasses browsing entirely.
+- A/B test an incentive in the final email: Test with and without a 10% discount in the 72-hour email to measure incremental conversion against margin impact.
 
 ### 5.b 7-Day Activation Rate 
 
 Users who do not purchase in the first 7 days are very unlikely to convert later. The first week is the make-or-break window. If we do not win them early, we lose them.
 
+#### Optimise First-Hour Conversion Experience
+- Exit-intent intervention on first visit - For new users showing exit signals, trigger a time-limited first-purchase offer or bestseller prompt.
+- Reduce checkout friction - Minimise steps between cart and confirmed purchase. Each additional step in the checkout flow has an outsized impact on Day-0 conversion.
+- Optimise mobile experience - Impulse purchases disproportionately occur on mobile. Product imagery, cart interaction, and payment confirmation must all be frictionless on small screens.
+
 #### Scale Direct-to-Cart Acquisition Channels (12% Activation Rate)
 - Direct-to-Cart users activate at 12%, more than double Traditional Browsers at 5%. Growing this segment from 2.5% to 5% of traffic delivers disproportionate activation gains. This can be achieved by expanding **email product campaigns**, **increasing social commerce product tagging**, and **implementing influencer affiliate program**.
 
-#### Optimize First-Hour Conversion Experience
-- 80% of Day 0 purchases occur within 1 hour of first arrival. This impulse window represents the highest-conversion opportunity but also the highest-friction risk. It should be well protected. It can be optimised through the **implementation of exit-intent intervention**, **reduced checkout friction**, **optimized mobile experience**.
-
 ### 5.c 90-Day Cohort Retention
 
-#### Optimize the Day 8-30 Retention Window (60% of Retention Formation Occurs Here)
+#### Optimize the Day 8-30 Retention Window (60% of Retention Happens Here)
+The retention curve adds 10 percentage points between Day 7 and Day 30. This is the highest-leverage window for converting undecided buyers with targeted incentive during into repeat customers.
 
-The retention curve shows steepest growth from Day 7 (7%) to Day 30 (17%), adding 10 percentage points. This is the critical window where most loyalty is formed. The goal is to convert undecided users with targeted incentive during this last high-conversion window.
-- Implement "How's It Going?" Check-In Email Trigger 10 days after first purchase.
-- For Fast-Consumption Products with predictable depletion, send Replenishment Reminder emails on Day 21. This should show product image, direct reorder link and discount on recurring orders
-- Before momentum fades, send a time-bound offer for first-time buyers. Personalize recommendations based on what they bought. Create urgency but keep it credible on Day 30.
+- Day 10 check-in email: Send a 'How's it going?' email 10 days post-purchase. Personal tone, product-specific, with a recommendation for a complementary item.
+- Day 21 replenishment reminder (fast-consumption products): For mascaras, foundations, and other consumables, send a product-specific reorder prompt with a direct reorder link.
+- Day 30 time-limited offer: For first-time buyers who have not yet returned, send a personalised offer with urgency. Base recommendations on what the user purchased, not generic bestsellers.
 
-#### Investigate and Replicate October Cohort's 32% Retention Success
+#### Investigate and Replicate October Cohort's 32% Retention Performance
 
-October 2019 cohort retained 32% versus November's 25%, a 28% performance gap.
-- Compare Marketing Channel Mix (October vs November). Was October more organic? Less discount heavy? Higher intent traffic? Identify what brought better customers. 
-- Review promotions and pricing (if any). Did November Black Friday/Cyber Monday affect behaviour? Were discounts too aggressive? Did free shipping thresholds change?
-- Analyze Product Mix Purchased. Did October buyers purchase different product categories? Product quality or satisfaction differences? 
-- Assess Traffic Source Quality and Referral sources, Paid vs organic ratio Geographic or demographic shift.
+October outperformed November by 7 percentage points on 90-day retention despite lower acquisition volume. Understanding what drove this gap is a high-priority strategic question.
+
+- Compare Marketing Channel Mix (October vs November) - Was October more organic? Less discount heavy? Higher intent traffic? Identify what brought better customers. 
+- Review promotions and pricing (if any)- Did November Black Friday/Cyber Monday affect behaviour? Were discounts too aggressive? Did free shipping thresholds change?
+- Analyse product category mix: Did October buyers purchase different categories with stronger replenishment cycles? Product-level satisfaction differences would show up in repurchase timing data.    
+
 October’s performance suggests that how customers are acquired matters more than how many are acquired. Scaling via promotions can inflate top-of-funnel growth, but sustainable revenue is driven by cohorts acquired through product-driven intent, not discount urgency.
 
 #### Bridge the Direct-to-Cart Retention Gap (6% → Target 15%)
-Direct-to-Cart users activate efficiently (12% rate) but retain poorly (6%), representing acquisition investment with minimal lifetime value return.
-- Implement Post-Purchase Education Sequence for Direct-to-Cart Buyers Within 24 hours of first purchase to build connection.
-- Segment Direct-to-Cart Users by Campaign Source: Not all Direct-to-Cart traffic is equal, then analyse retention by campaign type: Email subscribers (likely higher intent), Social media ads (possibly lower quality), Influencer affiliate links (depends on influencer-brand alignment) etc
-- Test Hybrid Journey: Campaign Landing → Browsing Encouraged. Instead of campaign emails with direct "Add to Cart" links, test landing users on curated collection/bundles pages
+Direct-to-Cart users activate efficiently (12%) but retain poorly (6%), representing acquisition investment with minimal lifetime value return. The goal is to build post-acquisition brand connection that Traditional Browsers develop naturally through browsing.
+- Within 24 hours of first purchase, send content that builds product connection — usage tips, ingredient stories, complementary products. Replicate the browsing experience they skipped.
+- Segment Direct-to-Cart Users by Campaign Source: Not all Direct-to-Cart traffic is equal. Email subscribers likely retain better than cold social ad traffic. Analyse retention by campaign type before applying a single retention strategy to all Direct-to-Cart users.
+- Test Hybrid Journey: Campaign Landing → Browsing Encouraged. Instead of campaign emails with direct "Add to Cart" links, test landing users on curated collection/bundles pages that encourage browsing before cart entry.
 
 #### Reduce Day 0 Repurchase Friction (Diagnostic Improvement)
 1,349 users (2.4% of first-time buyers) make a second purchase on the same day as their first - signaling potential checkout or merchandising friction. This is Not Retention: Day 0 repurchase measures transactional issues, not loyalty.  However, reducing friction improves customer experience and potentially converts split purchases into larger single orders.
