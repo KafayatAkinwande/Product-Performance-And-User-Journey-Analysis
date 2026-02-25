@@ -156,14 +156,14 @@ December through February cluster at a stable 6.79 – 7.15% conversion rate, su
 
 <div align="center">  <img width="800" height="400" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" /> </div>
 <br>
+
 The **7-day activation analysis** reveals that only **5% of new users** complete their first purchase within the **first week of arrival** on the platform. While this sits within the typical cosmetics e-commerce benchmark (3-8%), it masks significant variation across Traditional browsers and Direct-to-Cart users as seen below.
 
 #### 2.1 Two User Journeys, Vastly Different Outcomes 
 
 <img width="550" height="352" alt="Screenshot 2026-01-24 231210" src="https://github.com/user-attachments/assets/cb1e0178-158f-4e16-9e4e-7c7039145314" />
 
-The 2.4x performance advantage of Direct-to-Cart users validates current email marketing and social commerce strategies. 
-These users arrive pre-qualified—marketing content has already communicated product value, addressed objections, and built purchase intent before they reach the website. The platform simply needs to facilitate the transaction, not persuade them to buy.
+The 2.4x performance advantage of Direct-to-Cart users validates current email marketing and social media strategies. These users arrive pre-qualified—marketing content has already communicated product value, addressed objections, and built purchase intent before they reach the website. The platform simply needs to facilitate the transaction, not persuade them to buy.
 
 #### 2.2 The First Week is Make-or-Break
 <img width="550" height="556" alt="Screenshot 2026-01-25 162728" src="https://github.com/user-attachments/assets/9d908be1-d73e-4def-a064-b5704138152c" />
