@@ -33,7 +33,6 @@ The following three metrics directly influence the MAU and form the analytical f
 The analysis uses a consolidated event-level table combining all five months of data with the following structure:
 
 <div align="center">  <img width="500" height="500" alt="ChatGPT Image Jan 2, 2026, 04_22_09 PM" src="https://github.com/user-attachments/assets/6a6c2dcc-52f0-4fc3-a0a4-d18d1d221fb3" /> </div>
-<br>
 
 ### User Journey Types
 Two distinct behavioural paths exist in the data:
@@ -46,24 +45,6 @@ Two distinct behavioural paths exist in the data:
 <br>
 
 ## 3. Executive Summary
-
-### Key Findings at a Glance
-#### 1. User Conversion Rate
-##### Segmented Conversion Performance:
-Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, nearly double the 7% conversion of traditional browsers, highlighting the strong impact of targeted marketing channels.
-
-##### High Cart Abandonment:
-78% of all 'Add to Cart' events fail to reach the checkout stage, with the 'Remove from Cart' event rate (70%) significantly exceeding industry benchmarks. This indicates high transactional volatility, where more than half of intent-signals are being actively reversed, leading to substantial revenue leakage.
-
-##### Behavioural and Pricing Insights:
-Converting users explore 38 products vs 4 for non-converters, indicating substantial product comparison is required for purchase.
-Items removed from the cart (£5.23) are slightly more expensive than purchased items (£4.93), suggesting relative price sensitivity as a potential growth lever.
-
-#### 2. 7-Day Activation Rate 
-The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
-
-#### 3. 90-Day Cohort Retention
-Overall, the 90-day cohort analysis shows a **28.7% retention rate**, with 15K of 53K first-time buyers returning to purchase, and clear monthly cohort variation, with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than Day 0 buyers, highlighting the trade-off between speed and long-term value.
 
 <br>
 
@@ -115,6 +96,24 @@ Revenue follows active purchasing users. When MAU increases, revenue increases. 
 **Strategic Insight**
 <br>Alluring Cosmetics can scale revenue quickly through acquisition campaigns. However, sustainable growth depends on strengthening post-purchase engagement and increasing the proportion of returning active users. The way forward is not simply more traffic, but rather more repeat behaviour.
 
+### Key Findings at a Glance
+#### 1. User Conversion Rate
+##### Segmented Conversion Performance:
+Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, nearly double the 7% conversion of traditional browsers, highlighting the strong impact of targeted marketing channels.
+
+##### High Cart Abandonment:
+78% of all 'Add to Cart' events fail to reach the checkout stage, with the 'Remove from Cart' event rate (70%) significantly exceeding industry benchmarks. This indicates high transactional volatility, where more than half of intent-signals are being actively reversed, leading to substantial revenue leakage.
+
+##### Behavioural and Pricing Insights:
+Converting users explore 38 products vs 4 for non-converters, indicating substantial product comparison is required for purchase.
+Items removed from the cart (£5.23) are slightly more expensive than purchased items (£4.93), suggesting relative price sensitivity as a potential growth lever.
+
+#### 2. 7-Day Activation Rate 
+The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
+
+#### 3. 90-Day Cohort Retention
+Overall, the 90-day cohort analysis shows a **28.7% retention rate**, with 15K of 53K first-time buyers returning to purchase, and clear monthly cohort variation, with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than Day 0 buyers, highlighting the trade-off between speed and long-term value.
+<br>
 
 ## 4. Insight Deep Dive
 
@@ -124,24 +123,24 @@ The overall conversion rate is 6.92%. This single number masks a significant beh
 
 |<img width="1023" height="573" alt="Screenshot 2026-01-11 183245" src="https://github.com/user-attachments/assets/de5d8edb-ab3e-433b-97f9-6b900eefddfd" />|<img width="959" height="537" alt="Screenshot 2026-01-11 184342" src="https://github.com/user-attachments/assets/13a40685-484e-4b36-bfa3-9bb58c4794e2" />|
 | -------- | -------- |
-| **Traditional Browsers (The Core Audience)**: <br> This segment of 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> Also called The High-Intent Segment. This smaller cohort of 40K users exhibits dramatically different behaviour. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset. The 12% conversion rate, nearly double that of traditional browsers, validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%).| 
+| **Traditional Browsers (The Core Audience)**: <br> This segment of 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> Also called The High-Intent Segment. This smaller cohort of 40K users exhibits dramatically different behaviour. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset. The 12% conversion rate, nearly double that of traditional browsers, validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%). This segment represents only 2.4% of total traffic. Growing it from 2.4% to even 5% would deliver disproportionate conversion gains without requiring platform-wide changes.| 
 
 #### 1.1 The Cart Abandonment Challenge
-Once users demonstrate purchase intent by adding items to cart, **72%** fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost, implying the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
+Of all users who add items to cart , **72%** fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost, implying the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
 
-Breaking down this 70% abandonment reveals two distinct user behaviours:
+Breaking down this 72% abandonment reveals two distinct user behaviours:
 
 <img width="647" height="226" alt="Screenshot 2026-02-17 124934" src="https://github.com/user-attachments/assets/ab731fc8-f01f-4af4-ae9a-e40bf7b66e16" />
 
 #### 1.1a Active Removal: 46% Explicit Remove Rate
-Almost half of cart users actively click "remove" to delete items, representing a conscious decision to reverse their initial purchase intent. This 46% rate far exceeds the 15-30% industry norm for active removals, suggesting systematic issues influencing user decision-making.
+Almost half of cart users actively click "remove" to delete items, representing a conscious decision to reverse their initial purchase intent. This 46% rate far exceeds the 15-30% industry norm for active removals, suggesting issues in value perception rather than platform usability.
 
-The **analysis of removed products** provides insight into average removed product price -  £5.23 (removed products) vs. £4.93 (purchased products). The 6% price difference tells us that products being removed aren't expensive in absolute terms—most are under £11. This suggests the issue isn't product price shock but rather relative value perception. Users add items to cart during browsing, but upon reviewing cart totals or comparing options, decide the value proposition isn't compelling enough. 
+The **analysis of removed products** provides insight into average removed product price -  £5.23 (removed products) vs. £4.93 (purchased products) - a 6% price difference. These products are not expensive in absolute terms. The issue is not price shock but relative value perception. Users add items during browsing, then on reviewing or comparing options in their cart total, decide the value proposition is not compelling enough.
 
-Other **factors that drive active removal** include the following: high shipping costs, cart used as a comparison tool, promotional expectations not met. 
+Contributing**factors that drive active removal** likely include: high shipping costs, cart used as a comparison tool, and unmet promotional expectations. 
 
 #### 1.1b Passive Abandonment: 26% Leave Without Action
-These users showed enough interest to add products but did not complete checkout due to inactivity, session timeout, interruption or deferred the decision. The relatively low passive abandonment rate (26% vs. 46% active) actually indicates that the problem isn't user distraction or checkout friction; users are actively choosing not to buy rather than passively forgetting. This reinforces that the core issue lies in the purchase decision itself, not the checkout process.
+Users add items to cart but leave without taking any action — no removal, no purchase. This is likely driven by session timeouts, interruptions, or deferred decision-making. The relatively low passive abandonment rate (26% vs. 46% active) actually indicates that the problem isn't user distraction or checkout friction; users are actively choosing not to buy rather than passively forgetting. The intervention required is at the value and decision stage — not at checkout.
 
 #### 1.2 Monthly Performance Trends
 
