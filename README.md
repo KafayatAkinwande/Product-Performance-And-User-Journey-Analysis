@@ -123,10 +123,10 @@ The overall conversion rate is 6.92%. This single number masks a significant beh
 
 |<img width="1023" height="573" alt="Screenshot 2026-01-11 183245" src="https://github.com/user-attachments/assets/de5d8edb-ab3e-433b-97f9-6b900eefddfd" />|<img width="959" height="537" alt="Screenshot 2026-01-11 184342" src="https://github.com/user-attachments/assets/13a40685-484e-4b36-bfa3-9bb58c4794e2" />|
 | -------- | -------- |
-| **Traditional Browsers (The Core Audience)**: <br> This segment of 1.6M users follow the expected e-commerce journey: View → Cart → Purchase . The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> Also called The High-Intent Segment. This smaller cohort of 40K users exhibits dramatically different behaviour. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset. The 12% conversion rate, nearly double that of traditional browsers, validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%). This segment represents only 2.4% of total traffic. Growing it from 2.4% to even 5% would deliver disproportionate conversion gains without requiring platform-wide changes.| 
+| **Traditional Browsers (The Core Audience)**: <br> This segment of 1.6M users follow the expected e-commerce journey: View → Cart → Purchase. The 7% conversion rate sits at the higher end of the typical 2-5% cosmetics e-commerce benchmark, suggesting the product pages and browsing experience effectively communicate value. However, the real challenge emerges at the cart stage, among those who add items to cart, a substantial majority abandon without completing purchase (78%). |  **Direct-to-Cart Users:** <br> Also called The High-Intent Segment. This smaller cohort of 40K users exhibits dramatically different behaviour. By arriving directly at cart through targeted channels, they demonstrate higher purchase intent from the outset. The 12% conversion rate, nearly double that of traditional browsers, validates the effectiveness of email marketing and social media strategies. These users have already been pre-sold through marketing content, requiring less persuasion at the product page level (88%). This segment represents only 2.4% of total traffic. Growing it from 2.4% to even 5% would deliver disproportionate conversion gains without requiring platform-wide changes.| 
 
 #### 1.1 The Cart Abandonment Challenge
-Of all users who add items to cart , **72%** fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost, implying the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
+Of all users who add items to cart, **72%** fail to complete the transaction. This represents not just lost revenue but wasted acquisition cost, implying the brand has successfully attracted and engaged these users, only to lose them at the final hurdle.
 
 Breaking down this 72% abandonment reveals two distinct user behaviours:
 
@@ -209,49 +209,47 @@ The **October cohort**  retained at 32% versus November's 25% - a 28% performanc
 #### 3.3 Retention by User Type: Traditional v Direct-to-Cart
 
 <img width="515" height="245" alt="Screenshot 2026-02-10 162938" src="https://github.com/user-attachments/assets/419cc9c0-0919-4d5c-9d0e-5a999e972d50" />
+<br>
+
+Direct-to-Cart users convert at 12% - more than double Traditional Browsers at 5%. But the retention picture reverses sharply:
 
 **Understanding the Difference in Behaviour**
-- Self-Directed Discovery Creates Commitment: Traditional Browsers by nature tend to spend time exploring the product catalog, viewing images, and comparing options. This creates understanding and commmitment to their purchase. Further re-enforcing their slower time to activate, reflecting deliberation which is correlated to satisfaction and viewing images, and repurchase intent. Additionally, users who find Alluring Cosmetics through their own discovery journey demonstrate intrinsic interest in the brand or product category, not just response to promotional stimulus.
-- Campaign-Driven Intent is Transactional: Direct-to-Cart users arrive via email campaigns, social media ads, or promotional links with pre-loaded carts. Triggering purchases by marketing efforts. Leading to users with weak brand loyalty, who lack motivation to return at full price. Finally, because Direct-to-Cart users also tend to bypass browsing and validating their choice against other options, they face the risk of lower satisfaction if the promoted product doesn't meet expectations.
+<br><br> Traditional Browsers spend time comparing products, reading reviews, and validating their choices. This deliberation process creates ownership of the purchase decision, which correlates strongly with satisfaction and repeat intent. Users who discover the brand through their own journey demonstrate intrinsic interest, not just a response to a promotion.
+<br><br>Direct-to-Cart users, by contrast, arrive pre-loaded with cart intent from an email or social campaign. They bypass the deliberation phase, which makes them efficient to convert but fragile to retain. They have weak brand loyalty and little motivation to return at full price.
 
 
 #### 3.4 Repurchase Timing
 
 <img width="700" height="433" alt="Screenshot 2026-02-13 124130" src="https://github.com/user-attachments/assets/f37d5674-4382-4141-ac8a-c759554eddf8" />
 
-
-Examining when repeat purchases occur within the 90-day window reveals concentration in the earliest days, with a rapid decay pattern suggesting distinct behavioural segments.
+Examining when repeat purchases occur within the 90-day window reveals concentration in the earliest days with a rapid decay pattern. This has direct implications for when retention interventions should be deployed.
 
 ##### Time to Second Purchase Distribution
 **- Day 0 (Same-Day Repurchase): 1,349 users**
-Same-day repurchase is not retention; rather, it is a diagnostic metric for transactional behaviour and checkout experience. This behaviours could be driven by Cart Splitting for Free Shipping (customers seeking to exploit multiple promotions), check-out session timeouts, immediate uppsells and payment method switching. Industry benchmarks for checkout frictionsuggest 1-3% is normal, so Alluring Cosmetics is within expected range of 2.4% of day 0 repeat purchases, howvever, extension of session timeouts and earlier timing in upsells can be implemented.
+Same-day repurchase is not retention; rather, it is a diagnostic metric for transactional behaviour and checkout experience. These behaviours could be driven by Cart Splitting for Free Shipping (customers seeking to exploit multiple promotions), check-out session timeouts, immediate uppsells and payment method switching. Industry benchmarks for checkout friction suggest 1-3% is normal, so Alluring Cosmetics is within expected range of 2.4% of day 0 repeat purchases, however, extension of session timeouts and earlier timing in upsells can be implemented.
 
 **- Days 1–10 ( Rapid Engagement / Early Satisfaction): 2,896 users**
 These users are likely driven by high satisfaction with the first product, gifting, or small corrections (wrong shade, size, or minor cart adjustments). Some may be influenced by impulse or promotional triggers, so not all purchases indicate “true retention.”
 
 These users are high-value early adopters, and opportunities exist for engagement with loyalty programs, cross-sells, or VIP campaigns to capture early enthusiasm and reinforce brand affinity.
 
-**- Day 11–20: (Early Replenishment / Product Familiarization): 2, 487 users**
-This represents  users starting first natural product usage and replenishment cycles. Stronger signal of product satisfaction, as these users are repurchasing after experiencing the product rather than immediately reacting to UX or promotions.
+**- Day 11–20: (Early Replenishment / Product Familiarisation): 2, 487 users**
+This represents  users starting their first natural product usage and replenishment cycles. Stronger signal of product satisfaction, as these users are repurchasing after experiencing the product rather than immediately reacting to UX or promotions.
 
-Critical window for reinforcing product experience through personalized recommendations and retention messaging.These users are potential repeat customers, likely to stick if the first product meets expectations.
+Exposes a critical window for reinforcing product experience through personalized recommendations and retention messaging. These users are potential repeat customers, likely to stick if the first product meets expectations.
 
 **- Day 21–90: (True Retention / Replenishment Window): 8,224 users**
-This aligns with natural cosmetic usage cycles (e.g., mascara, foundation, skincare), reflecting actual satisfaction-driven repurchase behavior. Users in this window are more likely purchasing based on experience with the first product rather than brand curiosity or short-term impulse. This window captures real product-level retention and the formation of repeat customers. And it is a key focus for measuring brand loyalty, product satisfaction, and replenishment behavior.
+This aligns with natural cosmetic usage cycles (e.g. mascara, foundation, skincare), reflecting actual satisfaction-driven repurchase behaviour. Users in this window are more likely to repurchase based on experience with the first product rather than brand curiosity or short-term impulse. This window captures real product-level retention and the formation of repeat customers. And it is a key focus for measuring brand loyalty, product satisfaction, and replenishment behavior.
 
-A strategic focus on customer experience, replenishment reminders, and retention campaigns to maximize LTV.
-
- 
-**Recommendation:** Direct-to-Cart users need post-purchase engagement to convert them into retained customers. Email sequences, educational content, and product recommendations could bridge the retention gap.
-
+A strategic focus on customer experience, replenishment reminders, and retention campaigns to maximise LTV.
 
 ## 5. Recommendations
 
-Based on the analysis findings, the following actionable items can be prioritized by Alluring Cosmetics:
+Based on the analysis findings, the following recommendations are prioritised by expected impact on MAU and sustainable revenue growth in Alluring Cosmetics:
 
 ### 5.a Conversion Funnel
 #### Scale Direct-to-Cart Channels Given 12% Conversion Advantage
-Direct-to-cart users convert more. Alluring Cosmetics should lean into it.
+Direct-to-cart users convert more but represent only 2.4% of traffic. Alluring Cosmetics should lean into it.
 - Expand email product campaigns -Send more product-focused emails with clear Add to Cart buttons. These users already have intent. Make acting on it easy.
 - Increase social media product tagging- Tag more products in posts and stories. Let users shop without leaving the feed or browsing multiple pages.
 - Enhance recommendation widgets - Add Quick Add to Cart buttons on homepage, category pages, and post-purchase screens. Capture impulse decisions in the moment.
