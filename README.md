@@ -163,43 +163,47 @@ The **7-day activation analysis** reveals that only **5% of new users** complete
 
 <img width="550" height="352" alt="Screenshot 2026-01-24 231210" src="https://github.com/user-attachments/assets/cb1e0178-158f-4e16-9e4e-7c7039145314" />
 
-The 2.4x performance advantage of Direct-to-Cart users validates current email marketing and social media strategies. These users arrive pre-qualified—marketing content has already communicated product value, addressed objections, and built purchase intent before they reach the website. The platform simply needs to facilitate the transaction, not persuade them to buy.
+The 2.4x performance advantage of Direct-to-Cart users validates current email marketing and social media strategies. These users arrive pre-qualified, marketing content has already communicated product value, addressed objections, and built purchase intent before they reach the website. The platform simply needs to facilitate the transaction, not persuade them to buy.
 
 #### 2.2 The First Week is Make-or-Break
 <img width="550" height="556" alt="Screenshot 2026-01-25 162728" src="https://github.com/user-attachments/assets/9d908be1-d73e-4def-a064-b5704138152c" />
 
-Examining when users make their first purchase after initial arrival reveals stark urgency patterns. Of all users who eventually purchase, 84% complete their first transaction within 7 days of their first platform interaction. 
+Examining when users make their first purchase after initial arrival reveals stark urgency patterns. Of all users who ever make a purchase, 84% do so within the first 7 days of their first platform visit.
 The remaining 16% purchase between days 8-30, with virtually no purchases occurring beyond 30 days. Users who don't purchase within the first week are overwhelmingly unlikely to convert at all, the platform has one week to convince new visitors of value before losing them permanently.
 
-#### 2.3 Day 0 Dominates
+#### 2.3 Day 0 Dominates: 
 <img width="658" height="360" alt="Screenshot 2026-02-10 161309" src="https://github.com/user-attachments/assets/c0b42875-2408-48e6-8359-522b82a0f6fe" />
 
-Within the 7-day activation window, purchase timing concentrates heavily on Day 0 (same calendar day as first arrival). Of the 80,367 users who activated within 7 days, 57K (80%) purchased on Day 0 itself.
-The first-hour experience must be optimized for immediate conversion. Friction in product discovery, cart processes, or checkout during this window directly impacts activation rates. Mobile experience is particularly critical, as impulse purchases disproportionately occur on mobile devices.
+Within the 7-day activation window, purchase timing concentrates heavily on Day 0 (same calendar day as first visit). 57K of the 80,367 activating users (80%) made their first purchase on Day 0.
+This concentration on Day 0 points to high-impulse purchase behaviour, and it highlights the importance of optimising the first-hour experience for immediate conversion. 
+<br><br>
+Friction in product discovery, cart processes, or checkout during this window directly impacts activation rates. Mobile experience is especially important here, as impulse purchases disproportionately occur on mobile devices, where friction in discovery, cart, or checkout has an outsized negative impact.
 
 ## <div align="center"> 90-Day Cohort Retention </div>
 
-
 <div align="center"> <img width="601" height="338" alt="Screenshot 2026-02-07 234352" src="https://github.com/user-attachments/assets/92bfd1b2-db49-4892-82e3-9949555145de" /> </div>
 
-
-28.67% of first-time buyers return to make a second purchase within 90 days of their initial transaction, sitting perfectly within the typical cosmetics e-commerce benchmarks (15-30%). A further breakdown of retention quality across acquisition channels and purchase timing is seen below.
+28.67% of first-time buyers return to make a second purchase within 90 days of their initial transaction, meaning 15K of the 53K first-time buyers across October and November returned. This sits at the upper end of the typical cosmetics e-commerce benchmark of 15–30%.
 
 #### 3.1 The Retention Curve
 
 <img width="640" height="452" alt="Screenshot 2026-02-08 233637" src="https://github.com/user-attachments/assets/759e95e0-77fc-4fcc-85e8-efda322e68f6" />
 
 ##### What the Curve Reveals
-The observed 90-day retention pattern reflects a mix of transactional behaviour and genuine repeat demand, rather than a simple loyalty progression. Early repurchases **(Days 0–7, 7.03%)** are best interpreted as post-purchase corrections and operational follow-ups, while the strongest growth between **Days 8–30 (+10.15pp)** aligns with the first realistic repurchase window driven by product depletion and lifecycle marketing exposure. **Beyond Day 60**, retention flattens, indicating that most repeat demand has already happened, and that the remaining repurchasers represent a smaller, high-intent segment - making this window more valuable for identifying true long-term customers than for driving incremental volume.
+The shape of the retention curve is as informative as the overall rate. It reflects a mix of transactional behaviour and genuine repeat demand, rather than a simple loyalty progression. It breaks into three distinct phases:
 
-#### 3.2 Cohort Performance: October's 32% vs November's 25%
+- Days 0–7 (7.03%): Early repurchases in this window are best interpreted as post-purchase corrections, wrong shade, size, or small cart adjustments, rather than genuine loyalty signals. Some are also driven by checkout session timeouts or upsell triggers.
+- Days 8–30 (+10.15 percentage points): The steepest growth phase. This aligns with the first realistic repurchase window: product depletion cycles and exposure to lifecycle marketing (email sequences, retargeting). This is where the majority of genuine repeat behaviour forms.
+- Days 31–90 (flattening): Retention growth slows significantly beyond Day 60. Most repeat demand has already materialised. Users who repurchase in this window represent a smaller, high-intent segment - the early signal of a genuinely loyal customer base.
+
+#### 3.2 Cohort Performance: Acquisition Quality Over Volume
 <img width="467" height="356" alt="Screenshot 2026-02-09 162020" src="https://github.com/user-attachments/assets/0bf28329-3ca2-44a7-80ed-5a0c9c2d269d" />
 
-The October cohort outperformed November on 90-day retention (32% vs 25%) despite having fewer first-time buyers, indicating that October acquired higher-quality customers, while November scaled volume at the expense of retention efficiency.
+The **October cohort**  retained at 32% versus November's 25% - a 28% performance gap - despite having fewer first-time buyers, indicating that October acquired higher-quality customers, while November scaled volume at the expense of retention efficiency- challenging a volume-first acquisition mindset.
 
 **Why October May Have Performed Better**
 - October buyers likely represent planners, customers shopping ahead of the holiday rush rather than reacting to discounts. This group tends to be more intentional, less price-sensitive, and more aligned with long-term brand value, which translates into stronger repeat-purchase behaviour.
-- October purchases were more likely driven by product appeal (shade match, formulation, reviews) rather than price incentives. November’s Black Friday environment typically attracts deal-seekers whose primary motivation is discount depth, not brand affinity, lowering retention despite higher acquisition volume.
+- October purchases were more likely driven by product appeal (shade match, formulation, reviews) rather than price incentives. November’s Black Friday period typically attracts deal-seekers whose primary motivation is discount depth, not brand affinity, lowering retention despite higher acquisition volume.
 - October purchasers had their entire 90-day window during peak holiday season (Oct-Jan), potentially benefiting from gifting occasions and seasonal product relevance. November buyers' windows (Nov-Feb) include post-holiday months with reduced cosmetics purchase motivation.
 
 #### 3.3 Retention by User Type: Traditional v Direct-to-Cart
