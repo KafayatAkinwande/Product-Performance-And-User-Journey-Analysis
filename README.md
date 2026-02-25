@@ -155,7 +155,7 @@ December through February cluster at a stable 6.79 – 7.15% conversion rate, su
 ## <div align="center">  7-Day Activation Rate </div> 
 
 <div align="center">  <img width="800" height="400" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" /> </div>
-
+<br>
 The **7-day activation analysis** reveals that only **5% of new users** complete their first purchase within the **first week of arrival** on the platform. While this sits within the typical cosmetics e-commerce benchmark (3-8%), it masks significant variation across Traditional browsers and Direct-to-Cart users as seen below.
 
 #### 2.1 Two User Journeys, Vastly Different Outcomes 
