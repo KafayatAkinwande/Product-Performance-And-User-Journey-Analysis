@@ -5,22 +5,68 @@
 ## 1. Background and Overview
 
 ### Company Context
-Alluring Cosmetics is a UK-based budget-friendly cosmetic brand operating an e-commerce platform with a product catalog spanning 54,000 unique products serving 1.64 million customers. 
-The brand has generated **£6.35 million** in total revenue across its marketplace.
+Alluring Cosmetics is a UK-based budget-friendly cosmetic brand operating a direct-to-customer e-commerce platform with a product catalog spanning 54,000 unique products serving 1.64 million customers. With a catalogue of 54,000 unique products and 1.64 million total visitors over the analysis period, the business has generated **£6.35 million** in total revenue.
 
-Reporting to the Head of Product and Growth, this analysis explores **Monthly Active Users (MAU)** , **acquisition**, **activation**, and **retention** to understand user behavior patterns  and what truly drives sustainable growth at Alluring Cosmetics between October 2019 and February 2020.
+Reporting to the Head of Product and Growth, this analysis  cover five months of behavioural event data - October 2019 to February 2020. It explores how users **acquire**, **activate**, and **retain** across the platform, with the goal of identifying what truly drives sustainable revenue growth.
 
 ### North Star Metric
 #### Monthly Active Users (MAU)
 The number of unique users completing at least one purchase per month.
 
 ### Supporting Metrics (Drivers of MAU Growth)
-The following three metrics directly influence the North Star Metric and form the analytical framework for this project:
+The following three metrics directly influence the MAU and form the analytical framework for this project:
 
-- **User Conversion Rate** - Percentage of users who view products and complete a purchase
-- **7-Day Activation Rate** - Percentage of new users making their first purchase within 7 days
-- **90-Day Cohort Retention** - Percentage of first-time buyers who return to purchase within 90 days
-<br><br><br>
+- **User Conversion Rate** - % of users who complete a purchase
+- **7-Day Activation Rate** - % of new users who purchase within 7 days of first arrival
+- **90-Day Cohort Retention** - % of first-time buyers who return to purchase within 90 days of their first order
+<br>
+
+## 2. Data Structure and Overview
+### Dataset Specifications
+- Analysis Period: October 2019 - February 2020 (5 months)
+- Total Events Analysed: 20 Million behavioural events
+- Event Types: view, cart, remove_from_cart, purchase
+- Unique Visitors: 1.64 Million customers
+- Unique Products: 54,000 SKUs
+
+### Data Schema
+The analysis uses a consolidated event-level table combining all five months of data with the following structure:
+
+<div align="center">  <img width="500" height="500" alt="ChatGPT Image Jan 2, 2026, 04_22_09 PM" src="https://github.com/user-attachments/assets/6a6c2dcc-52f0-4fc3-a0a4-d18d1d221fb3" /> </div>
+<br>
+
+### User Journey Types
+Two distinct behavioural paths exist in the data:
+
+| Segment | Behavioral Path | Analytics Summary |
+| :--- | :--- | :--- |
+| **Traditional Browsers** | `view` → `cart` → (`remove_from_cart`) → `purchase` | **97.6% of users (1.6M).** These users browse product pages before adding to cart.|
+| **Direct-to-Cart Users** | `cart` → (`remove_from_cart`) → `purchase` | **2.4% of users (40K).** Arrive via marketing channels with no `view` event.|
+
+<br>
+
+## 3. Executive Summary
+
+### Key Findings at a Glance
+#### 1. User Conversion Rate
+##### Segmented Conversion Performance:
+Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, nearly double the 7% conversion of traditional browsers, highlighting the strong impact of targeted marketing channels.
+
+##### High Cart Abandonment:
+78% of all 'Add to Cart' events fail to reach the checkout stage, with the 'Remove from Cart' event rate (70%) significantly exceeding industry benchmarks. This indicates high transactional volatility, where more than half of intent-signals are being actively reversed, leading to substantial revenue leakage.
+
+##### Behavioural and Pricing Insights:
+Converting users explore 38 products vs 4 for non-converters, indicating substantial product comparison is required for purchase.
+Items removed from the cart (£5.23) are slightly more expensive than purchased items (£4.93), suggesting relative price sensitivity as a potential growth lever.
+
+#### 2. 7-Day Activation Rate 
+The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
+
+#### 3. 90-Day Cohort Retention
+Overall, the 90-day cohort analysis shows a **28.7% retention rate**, with 15K of 53K first-time buyers returning to purchase, and clear monthly cohort variation, with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than Day 0 buyers, highlighting the trade-off between speed and long-term value.
+
+<br>
+
 <img width="1013" height="540" alt="Screenshot 2026-02-19 171421" src="https://github.com/user-attachments/assets/27454448-1865-443a-a2c4-53fc3f44aec8" />
 
 Revenue follows active purchasing users. When MAU increases, revenue increases. This makes **MAU the clearest indicator of demand strength**.
@@ -33,14 +79,14 @@ Revenue follows active purchasing users. When MAU increases, revenue increases. 
             <strong>Are Users Coming Back?</strong>
             <ul>
               <li>MAU peaked in November (31.5K) following strong acquisition. However, returning user percentage increased steadily from 0% in October to 31% in February.</li>
-              <li>While total MAU declined after November, the composition improved. Growth shifted from campaign-driven expansion to a more stable returning base.</li>
+              <li>While total MAU declined after November, the  quality of the remaining active base improved. Growth shifted from campaign-driven to a more stable returning base.</li>
             </ul>
           </li>
           <li>
             <strong>Are Users Becoming More Valuable?</strong>
             <ul>
-              <li>Average Order Value remained stable (~£5 per item). Items per user remained largely stable between 9 and 10 items monthly.</li>
-              <li>Revenue growth did not come from higher pricing or deeper monetization. It scaled primarily with the number of the active purchasing base.</li>
+              <li>No. Average Order Value remained stable (~£5 per item). Items per user remained largely stable between 9 and 10 items monthly.</li>
+              <li>Revenue growth did not come from higher pricing or deeper monetization. It scaled primarily with the number of the active buyers.</li>
             </ul>
           </li>
         </ol>
@@ -50,14 +96,14 @@ Revenue follows active purchasing users. When MAU increases, revenue increases. 
           <li>
             <strong>Is Growth Acquisition-Led or Retention-Led?</strong>
             <ul>
-              <li>November's revenue spike aligns with increased acquisition and higher conversion. However, retention rates for subsequent cohorts suggest that promotional spikes did not translate into sustained compounding growth.</li>
-              <li>The business demonstrates strong campaign responsiveness but is still developing a steady retention stragtegy</li>
+              <li>November's revenue spike was acquisition-led and campaign-driven. However, retention rates for subsequent cohorts suggest that promotional spikes have not yet translated into sustained compounding growth.</li>
+              <li>The business responds well to campaigns but is still developing a steady retention strategy that works</li>
             </ul>
           </li>
           <li>
             <strong>90-Day Retention Context</strong>
             <ul>
-              <li>90-day retention remains a critical indicator of long-term value. While some early cohorts show promising retention, sustained long-term compounding growth requires expanding the returning user base further.</li>
+              <li>28.7% of first-time buyers return within 90 days (Oct–Nov cohorts). October's 32% retention outperformed November's 25%, suggesting that buyers acquired through intent not promotion retain better. Expanding the returning user base is the clearest path to sustainable revenue growth. </li>
             </ul>
           </li>
         </ol>
@@ -69,49 +115,12 @@ Revenue follows active purchasing users. When MAU increases, revenue increases. 
 **Strategic Insight**
 <br>Alluring Cosmetics can scale revenue quickly through acquisition campaigns. However, sustainable growth depends on strengthening post-purchase engagement and increasing the proportion of returning active users. The way forward is not simply more traffic, but rather more repeat behaviour.
 
-## 2. Data Structure and Overview
-### Dataset Specifications
-- Analysis Period: October 2019 - February 2020 (5 months)
-- Total Events Analysed: 20 Million behavioural events
-- Event Types Captured: view, cart, remove_from_cart, purchase
-- Unique Users: 1.64 Million customers
-- Unique Products: 54,000 SKUs
-
-### Data Schema
-The analysis uses a consolidated event-level table combining all five months of data with the following structure:
-
-<div align="center">  <img width="500" height="500" alt="ChatGPT Image Jan 2, 2026, 04_22_09 PM" src="https://github.com/user-attachments/assets/6a6c2dcc-52f0-4fc3-a0a4-d18d1d221fb3" /> </div>
-
-## 3. Executive Summary
-
-### Key Findings
-#### 1. Conversion & Funnel Performance:
-##### Segmented Conversion Performance:
-Overall conversion rate is 6.92%, but Direct-to-Cart users convert at 12.04%, nearly double the 7% conversion of traditional browsers, highlighting the strong impact of targeted marketing channels.
-
-##### High Cart Abandonment:
-78% of all 'Add to Cart' events fail to reach the checkout stage, with the 'Remove from Cart' event rate (70%) significantly exceeding industry benchmarks. This indicates high transactional volatility, where more than half of intent-signals are being actively reversed, leading to substantial revenue leakage.
-
-##### Behavioural and Pricing Insights:
-Converting users explore 38 products vs 4 for non-converters, indicating substantial product comparison is required for purchase.
-Items removed from the cart (£5.23) are slightly more expensive than purchased items (£4.93), suggesting relative price sensitivity as a potential growth lever.
-
-#### 2. 7-Day Activation Rate 
-The 7-day activation analysis reveals that only **5% of new users** complete their first purchase within the critical first week of arrival at Alluring Cosmetics. The data confirms that the first seven days, particularly the first 24 hours, represent the make-or-break window for converting new visitors into customers. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across user segments and a concerning 33% decline from peak to trough over the five-month period.
-
-#### 3. 90-Day Cohort Retention
-Overall, the 90-day cohort analysis shows a **28.7% retention rate**, with 15K of 53K first-time buyers returning to purchase, and clear cohort variation with October outperforming November by 28% (32% vs 25%), indicating seasonal or promotional effects. While Direct-to-Cart users activate faster, retention quality is materially higher among Traditional Browsers (30% vs 6%), and considered buyers (Day 1–7 activators) retain 57% better than impulse buyers, highlighting the trade-off between speed and long-term value.
-
-
-
 
 ## 4. Insight Deep Dive
 
 ## <div align="center"> User Conversion Rate: Two Distinct User Journeys </div>
 
-Analyzing conversion patterns revealed an important nuance: not all users follow the traditional browse-to-purchase path. While 97.6% of users (1.6M) engage in traditional product browsing, a smaller segment of 40,000 users (2.4%) add items directly to cart without viewing product pages first.
-
-
+The overall conversion rate is 6.92%. This single number masks a significant behavioural split between traditional browse-to-purchase path and Direct-to-cart user, which is reflected in their separate conversion rates.
 
 |<img width="1023" height="573" alt="Screenshot 2026-01-11 183245" src="https://github.com/user-attachments/assets/de5d8edb-ab3e-433b-97f9-6b900eefddfd" />|<img width="959" height="537" alt="Screenshot 2026-01-11 184342" src="https://github.com/user-attachments/assets/13a40685-484e-4b36-bfa3-9bb58c4794e2" />|
 | -------- | -------- |
@@ -231,8 +240,6 @@ This aligns with natural cosmetic usage cycles (e.g., mascara, foundation, skinc
 A strategic focus on customer experience, replenishment reminders, and retention campaigns to maximize LTV.
 
  
-
-
 **Recommendation:** Direct-to-Cart users need post-purchase engagement to convert them into retained customers. Email sequences, educational content, and product recommendations could bridge the retention gap.
 
 
