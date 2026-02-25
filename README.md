@@ -137,27 +137,26 @@ Almost half of cart users actively click "remove" to delete items, representing 
 
 The **analysis of removed products** provides insight into average removed product price -  £5.23 (removed products) vs. £4.93 (purchased products) - a 6% price difference. These products are not expensive in absolute terms. The issue is not price shock but relative value perception. Users add items during browsing, then on reviewing or comparing options in their cart total, decide the value proposition is not compelling enough.
 
-Contributing**factors that drive active removal** likely include: high shipping costs, cart used as a comparison tool, and unmet promotional expectations. 
+Contributing **factors that drive active removal** likely include: high shipping costs, cart used as a comparison tool, and unmet promotional expectations. 
 
 #### 1.1b Passive Abandonment: 26% Leave Without Action
 Users add items to cart but leave without taking any action — no removal, no purchase. This is likely driven by session timeouts, interruptions, or deferred decision-making. The relatively low passive abandonment rate (26% vs. 46% active) actually indicates that the problem isn't user distraction or checkout friction; users are actively choosing not to buy rather than passively forgetting. The intervention required is at the value and decision stage — not at checkout.
 
-#### 1.2 Monthly Performance Trends
+#### 1.2 Monthly Conversion Trends
 
 <img width="1471" height="407" alt="Screenshot 2026-02-16 150926" src="https://github.com/user-attachments/assets/9dbe4e13-58d3-424c-b738-1895d159b5ce" />
 
-**November 2019** stands out with an 8.86% conversion rate and 75.42% cart abandonment, the best performance across both metrics. This 33% improvement over the October conversion rate (8.86% vs 6.63%) and 4.65 point reduction in cart abandonment suggests an external factor driving performance - Black Friday/Cyber Monday promotions , Holiday shopping season, free shipping thresholds.
+**November 2019** stands out as the **best-performing** month with an 8.86% conversion rate and the **lowest cart abandonment** across the period. This represents a 33% improvement over October's 6.63% conversion rate. Additionally, the 4.65 point reduction in cart abandonment from October to November suggests an external factor driving performance: Black Friday/Cyber Monday promotions, Holiday shopping season, free shipping thresholds.
 
 Understanding what drove November's outperformance could inform strategies to replicate that success in other months. Conversely, October's 80.07% cart abandonment, the worst performance, requires an investigation into whether it represents a seasonal baseline or a specific issue that month.
 
-The relative stability of December through February (6.79-7.15% conversion, and apprx. 78% abandonment) suggests a baseline performance level when no exceptional factors are present, making November an instructive outlier rather than November being normal and other months being problematic.
-
+December through February cluster at a stable 6.79 – 7.15% conversion rate, suggesting this is the platform's true baseline when no promotional factor is active. November is an instructive outlier, not the norm. The strategic question is: what specifically drove November's performance, and can it be replicated outside of Black Friday season?
 
 ## <div align="center">  7-Day Activation Rate </div> 
 
 <div align="center">  <img width="800" height="400" alt="Screenshot 2026-01-22 195145" src="https://github.com/user-attachments/assets/e450bd6e-372d-4a6b-ab07-3656dda67ddd" /> </div>
 
-The **7-day activation analysis** reveals that only **5% of new users** complete their first purchase within the **first week of arrival** at Alluring Cosmetics e-commerce website. While this rate sits within typical cosmetics e-commerce benchmarks (3-8%), it masks significant performance variation across Traditional browsers and Direct-to-Cart users as seen below.
+The **7-day activation analysis** reveals that only **5% of new users** complete their first purchase within the **first week of arrival** on the platform. While this sits within the typical cosmetics e-commerce benchmark (3-8%), it masks significant variation across Traditional browsers and Direct-to-Cart users as seen below.
 
 #### 2.1 Two User Journeys, Vastly Different Outcomes 
 
