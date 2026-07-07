@@ -5,7 +5,7 @@
 ## 1. Background and Overview
 
 ### Company Context
-Alluring Cosmetics is a UK-based budget-friendly cosmetic brand operating a direct-to-customer e-commerce platform with a product catalog spanning 54,000 unique products serving 1.64 million customers. With a catalogue of 54,000 unique products and 1.64 million total visitors over the analysis period, the business has generated **£6.35 million** in total revenue.
+Alluring Cosmetics is a UK-based budget-friendly cosmetic brand operating a direct-to-customer e-commerce platform with a product catalogue spanning 54,000 unique products serving 1.64 million customers. The business has generated **£6.35 million** in total revenue.
 
 Reporting to the Head of Product and Growth, this analysis  cover five months of behavioural event data - October 2019 to February 2020. It explores how users **acquire**, **activate**, and **retain** across the platform, with the goal of identifying what truly drives sustainable revenue growth.
 
